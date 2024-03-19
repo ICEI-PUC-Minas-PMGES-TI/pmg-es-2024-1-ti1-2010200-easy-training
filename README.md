@@ -1,18 +1,20 @@
-# Nome do projeto
+# Easy Training
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+Um aplicativo para orientar e ajudar os usuarios que desejam fazer algum tipo de treino personalizado, atendendo as necessidades, limitações e objetivos de cada um. 
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* João Marcelo carvalho pereira araujo
+* Rogerio Eduardo Oliveira
+* Gabriel Oliveira Amorim
+* Diogo Caribe Brunoro
+* Bruno Kenji Fantucci Sato
+* Bernanrdo de Resende Marcelino
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Michelle Hanne Soares de Andrade 
+* João paulo Carneiro Aramuni
 
 ## Instruções de utilização
 
