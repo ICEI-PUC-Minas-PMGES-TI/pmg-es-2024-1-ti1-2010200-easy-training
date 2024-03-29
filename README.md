@@ -1,6 +1,6 @@
 # Easy Training
 
-Um aplicativo para orientar e ajudar os usuarios que desejam fazer algum tipo de treino personalizado, atendendo as necessidades, limitações e objetivos de cada um. 
+Um aplicativo para orientar e ajudar os usuarios que desejam fazer treinos personalizado, atendendo as necessidades, limitações e objetivos de cada um. 
 
 ## Alunos integrantes da equipe
 
