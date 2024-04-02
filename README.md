@@ -9,7 +9,7 @@ Um aplicativo para orientar e ajudar os usuarios que desejam fazer treinos perso
 * Gabriel Oliveira Amorim
 * Diogo Caribe Brunoro
 * Bruno Kenji Fantucci Sato
-* Bernanrdo de Resende Marcelino
+* Bernardo de Resende Marcelino
 
 ## Professores responsáveis
 
