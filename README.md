@@ -1,6 +1,6 @@
 # Easy Training
 
-Um aplicativo para orientar e ajudar os usuarios que desejam fazer treinos personalizado, atendendo as necessidades, limitações e objetivos de cada um. 
+Easy Training é um Software inovador que promete transformar a experiência dos treinos dos usuários, oferecendo fichas personalizadas adaptadas às necessidades e objetivos individuais. Além disso, a aplicação conta com o apoio e orientação de personal trainers e profissionais de educação física, dos quais os alunos podem receber instruções detalhadas e esclarecer dúvidas. Eles também podem utilizar e avaliar fichas publicadas pelos próprios instrutores dentro da plataforma. É a forma ideal de obter treinos personalizados, bem orientados e eficientes para alcançar seus objetivos.
 
 ## Alunos integrantes da equipe
 
@@ -14,7 +14,7 @@ Um aplicativo para orientar e ajudar os usuarios que desejam fazer treinos perso
 ## Professores responsáveis
 
 * Michelle Hanne Soares de Andrade 
-* João paulo Carneiro Aramuni
+* João Paulo Carneiro Aramuni
 
 ## Instruções de utilização
 
