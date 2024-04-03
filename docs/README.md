@@ -58,6 +58,9 @@ Descreva quem serão as pessoas que usarão a sua aplicação indicando os difer
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
 
+🚩🚩(Texto provisório)
+O público alvo do aplicativo seriam os usuários de academias, entusiastas, atletas amadores, e iniciantes na prática de exercícios, respeitando suas dificuldades e limitações, abrangendo a população geral interessada na prática de atividades físicas.
+
 **Links Úteis**:
 
 - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
