@@ -24,6 +24,10 @@ Nesse momento você deve apresentar o problema que a sua aplicação deve resolv
 
 Nesse momento, o grupo pode optar por fazer uso de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
+
+(Texto provisório)
+Os problemas que a aplicação busca solucionar são os desafios enfrentado pelos membros de academia na tentativa de alcançarem seus objetivos, tanto pela dificuldade de adaptação e continuidade dentro desse espaço por conta de fichas genéricas e pouco orientadas por profissionais, que podem, a longo prazo, dificultar o desenvolvimento e busca pelos objetivos, com treinos pouco eficientes que podem também acarretar em lesões.
+
 **Links Úteis**:
 
 - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
