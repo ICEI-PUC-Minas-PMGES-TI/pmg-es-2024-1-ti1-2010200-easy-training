@@ -38,9 +38,13 @@ Os problemas que a aplicação busca solucionar são os desafios enfrentado pelo
 
 Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
 
+
 **Links Úteis**:
 
 - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+  
+🚩🚩(Texto provisório)
+O objetivo geral da aplicação é facilitar e potencializar o desenvolvimento dos frequentadores de academias através da aplicação, por meio de fichas de treino específicas para cada usuário, com seus determinados objetivos e limitações para alcançá-los, oferecendo também, o apoio de profissionais de educação física para instruílos e oferecer um acompanhamento direto com os usuários, tendo como finalidade ofertar maior praticidade e cuidado com os alunos durante a prática de exercícios.
 
 ## Justificativa
 
@@ -52,6 +56,15 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
+🚩🚩(Texto provisório)
+A criação desse software é motivada pela necessidade crescente dos usuários de ter fichas menos genéricas e pouco efetivas para seus objetivos, aliadas a falta de orientação de personal trainers na escolha e execução de determinados exercícios, gerando uma insatisfação coletiva dos membros de academias, principalmente de grandes redes, que pelo grande número de frequentadores, tendem a padronizar seus treinos e ofertar pouco auxílio individual aos alunos.
+Diante desse cenário, a aplicação visa oferecer soluções personalizadas e eficazes para cada um dos usuários a fim de otimizar os treinos, levando em conta suas limitações e possíveis lesões.
+O público alvo da aplicação seriam os usuários de academia em geral, abrangendo tanto iniciantes quanto pessoas que ja estejam mais avançadas nessa atividade, com essa amplitude, o software pode fornecer a diversos tipos de pessoas treinos eficazes e acompanhamento ideal durante seus treinos.
+Esse projeto de software utiliza como base a persona e a pesquisa qualitativa, desenvolvidas durante o processo de Design Thinking para ilustrar sua aplicação nesse contexto.
+
+(colocar e explicar aqui as personas e o design thinking)
+
+
 ## Público-Alvo
 
 Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
@@ -59,7 +72,7 @@ Descreva quem serão as pessoas que usarão a sua aplicação indicando os difer
 Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
 
 🚩🚩(Texto provisório)
-O público alvo do aplicativo seriam os usuários de academias, entusiastas, atletas amadores, e iniciantes na prática de exercícios, respeitando suas dificuldades e limitações, abrangendo a população geral interessada na prática de atividades físicas.
+O público alvo do aplicativo seriam os usuários de academias, entusiastas, atletas amadores, e iniciantes na prática de exercícios, respeitando suas dificuldades e limitações, abrangendo a população geral interessada na prática de atividades físicas. Além disso, o aplicativo também possui a participação direta de personal trainers e outros profissionais de educação física que podem se cadastrar no aplicativo para tirar dúvidas e instruir os praticantes de academia
 
 **Links Úteis**:
 
