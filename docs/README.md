@@ -28,6 +28,7 @@ Nesse momento, o grupo pode optar por fazer uso de ferramentas como Design Think
 🚩🚩(Texto provisório)
 Os problemas que a aplicação busca solucionar são os desafios enfrentado pelos membros de academia na tentativa de alcançarem seus objetivos, tanto pela dificuldade de adaptação e continuidade dentro desse espaço por conta de fichas genéricas e pouco orientadas por profissionais, que podem, a longo prazo, dificultar o desenvolvimento e busca pelos objetivos, com treinos pouco eficientes que podem também acarretar em lesões.
 
+
 **Links Úteis**:
 
 - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -44,7 +45,10 @@ Aqui você deve descrever os objetivos do trabalho indicando que o objetivo gera
 - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
   
 🚩🚩(Texto provisório)
-O objetivo geral da aplicação é facilitar e potencializar o desenvolvimento dos frequentadores de academias através da aplicação, por meio de fichas de treino específicas para cada usuário, com seus determinados objetivos e limitações para alcançá-los, oferecendo também, o apoio de profissionais de educação física para instruílos e oferecer um acompanhamento direto com os usuários, tendo como finalidade ofertar maior praticidade e cuidado com os alunos durante a prática de exercícios.
+O objetivo geral da aplicação é facilitar e potencializar o desenvolvimento dos frequentadores de academias do Brasil através da aplicação, por meio de fichas de treino específicas para cada usuário, com seus determinados objetivos e limitações para alcançá-los, oferecendo também, o apoio de profissionais de educação física para instruílos e oferecer um acompanhamento direto com os usuários, tendo como finalidade ofertar maior praticidade e cuidado com os alunos durante a prática de exercícios.
+Objetivos específicos:
+1- Desenvolver um sistema de criação de fichas de treino personalizadas, que receba parâmetros específicos como altura, peso, objetivo, limitações e restrições dos usuários e gere fichas bem estruturadas e adequadas para cada um deles.
+2- Reduzir lesões e outros problemas físicos ocasionadas por fichas mal implementadas, mal instruidas ou mal preparadas de acordo com os objetivos e entraves para o desenvolvimento dos alunos.
 
 ## Justificativa
 
@@ -72,7 +76,8 @@ Descreva quem serão as pessoas que usarão a sua aplicação indicando os difer
 Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
 
 🚩🚩(Texto provisório)
-O público alvo do aplicativo seriam os usuários de academias, entusiastas, atletas amadores, e iniciantes na prática de exercícios, respeitando suas dificuldades e limitações, abrangendo a população geral interessada na prática de atividades físicas. Além disso, o aplicativo também possui a participação direta de personal trainers e outros profissionais de educação física que podem se cadastrar no aplicativo para tirar dúvidas e instruir os praticantes de academia
+O público alvo do aplicativo seriam os usuários de academias, entusiastas, atletas amadores, e iniciantes na prática de exercícios, respeitando suas dificuldades e limitações, abrangendo a população geral interessada na prática de atividades físicas. Além disso, o aplicativo também é direcionado a personal trainers e outros profissionais de educação física, que podem se cadastrar para oferecer orientação e instrução aos usuários.
+
 
 **Links Úteis**:
 
