@@ -134,7 +134,21 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante ao layout de elementos fundamentais na interface.
 
-(provisório) ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/161259842/377db988-60f0-4d9c-8f86-a07def1f5bea)
+(provisório)
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/161259842/377db988-60f0-4d9c-8f86-a07def1f5bea)
+PROTÓTIPO TELA INICIAL
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/161259842/4c70e720-f19c-42a2-b819-bd67e77ea999)
+PROTÓTIPO TELA DE CADASTRO 
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/161259842/c8f79ce2-c418-4348-abd3-df24ab21c2af)
+PROTÓTIPO TEDA DAS FICHAS
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/161259842/80e2c676-00c6-4abb-b8ba-4eaa5845a152)
+PROTÓTIPO TELA DE LOGIN
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/161259842/49084808-d91e-4987-8139-187d8661948a)
+PROTÓTIPO TELA DE CONTATOS
+
+
+
+
 
 
 **Links Úteis**:
