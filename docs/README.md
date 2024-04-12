@@ -88,6 +88,17 @@ O público alvo do aplicativo seriam os usuários de academias, entusiastas, atl
 
 Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que você deve ser enumerar e descrever precisamente e de forma personalizada todos os principais envolvidos com a solução almeja.
 
+🚩🚩(provisório)
+
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/161259842/79308f4b-2d03-4f77-8a35-11de628db135)
+
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/161259842/af5c209f-58ac-49b0-9e94-6254f2ccf658)
+
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/161259842/ad86a77c-8a40-44cc-81b6-57d3ef765988)
+
+
+
+
 **Links Úteis**:
 
 - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
