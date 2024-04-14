@@ -82,32 +82,20 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 -O sistema deverá executar em qualquer plataforma.
 
--o sistema deverá ter alta disponibilidade.
+-O sistema deverá ter alta disponibilidade.
 
--o sistema deverá apresentar alta responsividade em qualquer dispositivo (de mobile a grandes telas).
+-O sistema deverá apresentar alta responsividade em qualquer dispositivo (de mobile a grandes telas).
 
--o sistema deverá ser desenvolvido utilizando HTML, CSS e JavaScript.
+-O sistema deverá ser desenvolvido utilizando HTML, CSS e JavaScript.
 
--o sistema não apresentará nenhum tipo de dado privativo dos usuários
+-O sistema não apresentará nenhum tipo de dado privativo dos usuários
 
--o sistema deverá atender as normas legais, tais como padrões e leis.
+-O sistema deverá atender as normas legais, tais como padrões e leis.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/162399153/7a80df4d-68ff-400d-87aa-f52722d29960)
 
 
-Os requisitos de um projeto são classificados em dois grupos:
 
-- [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
-  correspondem a uma funcionalidade que deve estar presente na plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a dispositivos iOS e Android).
-
-Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-**Links Úteis**:
-
-- [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-- [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## User Flow
 
