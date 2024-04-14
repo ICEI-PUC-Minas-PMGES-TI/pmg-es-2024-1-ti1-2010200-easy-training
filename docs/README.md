@@ -16,7 +16,7 @@ O template para o site é estruturado e permite que a equipe evolua a documenta�
 
 # Orientações gerais
 
-Easy Training é uma aplicação Web que cria fichas personalizadas para cada um dos usuários, considerando suas limitações e seus objetivos específicos, além de um chat direto com personal trainers.
+Easy Training é uma aplicação Web que cria fichas personalizadas para os usuários, considerando suas limitações e seus objetivos específicos, além de contato direto com personal trainers.
 
 ## Problema
 
