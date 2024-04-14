@@ -59,7 +59,7 @@ O público alvo do aplicativo seriam os usuários de academias, entusiastas, atl
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
- História 1- 
+ ## História 1- 
  
  Entrevista:
 
@@ -83,7 +83,7 @@ O que você gostaria que mudasse sobre o apoio que os personal trainers oferecem
 
 -que eles fossem mais atentos as atividades dos alunos.
  
-História do usuário 1:
+## História do usuário 1:
 
 Como membro de uma academia, eu quero poder testar novas fichas para melhorar meus resultados na academia através de novos treinos sem desgaste físico.
 
@@ -109,12 +109,12 @@ Eu quero que tenha marcações de peso, para focar na progressão de carga, para
 O que eu gostaria? 
 Tempo de descanso recomendado.
 
-História do Usuário 2:
+## História do Usuário 2:
 
 Como membro de uma academia, eu quero apoio e instruções que me ajudem na execução dos exercícios para evitar execuções incorretas e obter melhores resultados com as cargas adequadas.
 
 
- História 3 -
+##  História 3 -
  
  Entrevista:
  
@@ -138,7 +138,7 @@ O que você espera do apoio dos personal treiners ?
 
 - olhar atento aos alunos para evitar lesões e atenção individual de acordo com as habilidades de cada um.
 
-História do Usuário 3 :
+## História do Usuário 3 :
 
 Como alguém que pretende iniciar na academia, eu quero fichas específicos que me ajudem a alcançar meus objetivos, além de ter maior cuidado e atenção dos personal trainers.
 
