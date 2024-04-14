@@ -64,6 +64,22 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
+##História 1- 
+
+Como membro de uma academia, eu quero poder testar novas fichas bem avaliadas para melhorar meus resultados na academia através de novos treinos.
+
+##História 2 -
+
+Como membro de uma academia, eu quero apoio de personal trainers que me ajudem na execução dos exercícios para evitar lesões e obter melhores resultados.
+
+##História 3 -
+
+Como personal trainer, eu quero utilizar a plataforma como uma forma de orientar os alunos na prática de atividades físicas.
+
+##História 4 -
+
+Como alguem que pretende inicar na academia, eu quero fichas personalizadas que me ajudem a alcançar meus objetivos mais rapidamente.
+
 ## Requisitos
 
 ## Requisitos Funcionais:
