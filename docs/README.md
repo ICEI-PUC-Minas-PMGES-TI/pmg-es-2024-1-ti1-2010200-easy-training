@@ -61,11 +61,22 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
  História 1- 
 
+História do usuário 1:
+
 Como membro de uma academia, eu quero poder testar novas fichas bem avaliadas para melhorar meus resultados na academia através de novos treinos.
 
  História 2 -
+ Entrevista :
+Você acha que é necessário personal? 
+Não é necessário personal, seria um gasto desnecessário, para cada exercício, no aplicativo teria um pequeno vídeo explicando a execução correta.
 
-Como membro de uma academia, eu quero apoio de personal trainers que me ajudem na execução dos exercícios para evitar lesões e obter melhores resultados.
+O que você gostaria no aplicativo?
+Eu quero que tenha marcações de peso, para focar na progressão de carga, para a cada treino eu não regrida.
+
+O que eu gostaria? 
+Tempo de descanso recomendado.
+
+Como membro de uma academia, eu quero apoio e instruções que me ajudem na execução dos exercícios para evitar execuções incorretas e obter melhores resultados.
 
  História 3 -
 
