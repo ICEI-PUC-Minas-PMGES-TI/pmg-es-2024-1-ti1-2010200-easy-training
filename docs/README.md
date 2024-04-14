@@ -195,7 +195,7 @@ PROTÓTIPO TELA DE CADASTRO
 
 ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/161259842/c8f79ce2-c418-4348-abd3-df24ab21c2af)
 
-PROTÓTIPO TEDA DAS FICHAS
+PROTÓTIPO TELA DAS FICHAS
 
 ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/161259842/80e2c676-00c6-4abb-b8ba-4eaa5845a152)
 
