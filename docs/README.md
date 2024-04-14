@@ -66,7 +66,7 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ## Requisitos
 
-Requisitos Funcionais:
+## Requisitos Funcionais:
 
 -Cadastro dos usuários: alunos e personal-trainers.
 
@@ -77,9 +77,7 @@ Requisitos Funcionais:
 -Avaliação das fichas publicadas pelos profissionais pelos usuários.
 
 
-
-Requisitos não funcionais:
-
+## Requisitos não funcionais:
 
 
 -O sistema deverá executar em qualquer plataforma.
