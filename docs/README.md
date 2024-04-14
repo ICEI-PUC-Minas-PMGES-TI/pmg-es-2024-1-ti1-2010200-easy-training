@@ -66,6 +66,13 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ## Requisitos
 
+Requisitos Funcionais:
+
+-Cadastro dos usuários: alunos e personal-trainers
+-Fichas personalizadas de acordo com a necessidades e limitações dos usuários
+-Chat para contato dos alunos com os profissionais
+-Avaliação das fichas publicadas pelos profissionais pelos usuários
+
 Os requisitos de um projeto são classificados em dois grupos:
 
 - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
