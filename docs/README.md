@@ -88,7 +88,7 @@ O que você gostaria que mudasse sobre o apoio que os personal trainers oferecem
 Como membro de uma academia, eu quero poder testar novas fichas para melhorar meus resultados na academia através de novos treinos sem desgaste físico.
 
 
- História 2 -
+ ## História 2 -
  
  Entrevista =
  
