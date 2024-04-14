@@ -73,6 +73,9 @@ Requisitos Funcionais:
 -Chat para contato dos alunos com os profissionais
 -Avaliação das fichas publicadas pelos profissionais pelos usuários
 
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/162399153/7a80df4d-68ff-400d-87aa-f52722d29960)
+
+
 Os requisitos de um projeto são classificados em dois grupos:
 
 - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
