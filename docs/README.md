@@ -61,7 +61,7 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
  ## História 1- 
  
- Entrevista:
+ Entrevista 1:
 
  Diogo de Resende Marcelino
 
@@ -90,7 +90,7 @@ Como membro de uma academia, eu quero poder testar novas fichas para melhorar me
 
  ## História 2 -
  
- Entrevista =
+ Entrevista 2 -
  
  Lucas Valente 
  
@@ -116,7 +116,7 @@ Como membro de uma academia, eu quero apoio e instruções que me ajudem na exec
 
 ##  História 3 -
  
- Entrevista:
+ Entrevista 3:
  
  Claudia Maria de Resende
  
