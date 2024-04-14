@@ -68,13 +68,29 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 Requisitos Funcionais:
 
--Cadastro dos usuários: alunos e personal-trainers
+-Cadastro dos usuários: alunos e personal-trainers.
 
--Fichas personalizadas de acordo com a necessidades e limitações dos usuários
+-Fichas personalizadas de acordo com a necessidades e limitações dos usuários.
 
--Chat para contato dos alunos com os profissionais
+-Chat para contato dos alunos com os profissionais.
 
--Avaliação das fichas publicadas pelos profissionais pelos usuários
+-Avaliação das fichas publicadas pelos profissionais pelos usuários.
+
+
+Requisitos não funcionais:
+
+
+-O sistema deverá executar em qualquer plataforma.
+
+-o sistema deverá ter alta disponibilidade.
+
+-o sistema deverá apresentar alta responsividade em qualquer dispositivo (de mobile a grandes telas).
+
+-o sistema deverá ser desenvolvido utilizando HTML, CSS e JavaScript.
+
+-o sistema não apresentará nenhum tipo de dado privativo dos usuários
+
+-o sistema deverá atender as normas legais, tais como padrões e leis.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/162399153/7a80df4d-68ff-400d-87aa-f52722d29960)
 
