@@ -16,7 +16,7 @@ O template para o site é estruturado e permite que a equipe evolua a documenta�
 
 # Orientações gerais
 
-Esta seção traz explicações breves sobre o conjunto de artefatos que precisam ser incluídos na documentação do projeto com uma conjunto de links importantes para que se entenda como criar cada coisa. 
+Easy Training é uma aplicação Web que cria fichas personalizadas para cada um dos usuários, considerando suas limitações e seus objetivos específicos, além de um chat direto com personal trainers.
 
 ## Problema
 
