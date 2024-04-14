@@ -69,8 +69,11 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 Requisitos Funcionais:
 
 -Cadastro dos usuários: alunos e personal-trainers
+
 -Fichas personalizadas de acordo com a necessidades e limitações dos usuários
+
 -Chat para contato dos alunos com os profissionais
+
 -Avaliação das fichas publicadas pelos profissionais pelos usuários
 
 ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/162399153/7a80df4d-68ff-400d-87aa-f52722d29960)
