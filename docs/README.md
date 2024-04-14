@@ -77,7 +77,9 @@ Requisitos Funcionais:
 -Avaliação das fichas publicadas pelos profissionais pelos usuários.
 
 
+
 Requisitos não funcionais:
+
 
 
 -O sistema deverá executar em qualquer plataforma.
