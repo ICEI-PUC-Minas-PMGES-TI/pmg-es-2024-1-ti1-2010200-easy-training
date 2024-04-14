@@ -60,13 +60,46 @@ O público alvo do aplicativo seriam os usuários de academias, entusiastas, atl
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
  História 1- 
+ 
+ Entrevista:
 
+ Diogo de Resende Marcelino
+
+ 15 anos
+
+ Estudante
+
+ Faz academia a 2 anos
+
+ O que você gostaria que fosse feito sobre o apoio das academias aos alunos ?
+
+-gostaria que a academia tivesse mais personal-trainers para acompanhar e orientar todos alunos
+
+O que você gostaria que mudasse sobre as fichas de treino das academias ?
+
+-que elas fossem especializadas de acordo com meus objetivos e menos desgastantes fisicamente
+
+O que você gostaria que mudasse sobre o apoio que os personal trainers oferecem ?
+
+-que eles fossem mais atentos as atividades dos alunos.
+ 
 História do usuário 1:
 
-Como membro de uma academia, eu quero poder testar novas fichas bem avaliadas para melhorar meus resultados na academia através de novos treinos.
+Como membro de uma academia, eu quero poder testar novas fichas para melhorar meus resultados na academia através de novos treinos sem desgaste físico.
+
 
  História 2 -
- Entrevista :
+ 
+ Entrevista =
+ 
+ Lucas Valente 
+ 
+20 anos 
+
+Estudante 
+
+Faz academia há 6 anos
+
 Você acha que é necessário personal? 
 Não é necessário personal, seria um gasto desnecessário, para cada exercício, no aplicativo teria um pequeno vídeo explicando a execução correta.
 
@@ -76,15 +109,38 @@ Eu quero que tenha marcações de peso, para focar na progressão de carga, para
 O que eu gostaria? 
 Tempo de descanso recomendado.
 
-Como membro de uma academia, eu quero apoio e instruções que me ajudem na execução dos exercícios para evitar execuções incorretas e obter melhores resultados.
+História do Usuário 2:
+
+Como membro de uma academia, eu quero apoio e instruções que me ajudem na execução dos exercícios para evitar execuções incorretas e obter melhores resultados com as cargas adequadas.
+
 
  História 3 -
+ 
+ Entrevista:
+ 
+ Claudia Maria de Resende
+ 
+ 54 anos
 
-Como personal trainer, eu quero utilizar a plataforma como uma forma de orientar os alunos na prática de atividades físicas.
+ Secretária de Educação
 
- História 4 -
+ Não frequenta academias
 
-Como alguém que pretende iniciar na academia, eu quero fichas específicos que me ajudem a alcançar meus objetivos, manter minha sáude e bem-estar.
+O que você espera sobre o apoio das academias com iniciantes ?
+
+-Orientação de como atingir os objetivos e acompanhamento constante dos profissionais para evitar possíveis lesões e incentivo para os iniciantes.
+
+O que você espera das fichas de treino das academias ?
+
+- Que elas sejam personalizadas e acompanhem o ritmo dos alunos.
+  
+O que você espera do apoio dos personal treiners ?
+
+- olhar atento aos alunos para evitar lesões e atenção individual de acordo com as habilidades de cada um.
+
+História do Usuário 3 :
+
+Como alguém que pretende iniciar na academia, eu quero fichas específicos que me ajudem a alcançar meus objetivos, além de ter maior cuidado e atenção dos personal trainers.
 
 ## Requisitos
 
