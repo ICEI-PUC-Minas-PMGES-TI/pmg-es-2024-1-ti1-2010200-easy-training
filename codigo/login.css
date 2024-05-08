@@ -287,6 +287,6 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  margin: 0; /* Remova o margin que está empurrando o footer para cima */
+  margin: 0; 
   padding: 0;
 }

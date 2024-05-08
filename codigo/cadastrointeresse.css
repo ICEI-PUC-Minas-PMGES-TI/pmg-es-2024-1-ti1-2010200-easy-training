@@ -220,27 +220,32 @@ body {
   
   label {
     display: block;
-    margin-bottom: 5px;
-  }
-  
-  textarea { 
-    display: block;
+    margin: 10px;
+    box-sizing: border-box;
     width: 100%;
-    padding: 10px;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-    height: 130px;
-    
+  }
+
+  .label div {
+    margin: 10px; 
+}
+
+
+textarea { 
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  height: 130px;
+  
 }
 
 .textarea textarea{
-    margin-top: 15px;
-    margin-bottom: 15px;
-    resize: none;
-      
-}
+  margin-bottom: 15px;
+  resize: none;
   
+}
   
   
   button {
@@ -257,4 +262,19 @@ body {
   
   button:hover {
     background-color: #0056b3;
+  }
+
+  footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin-top: auto; /
+  }
+  
+  .footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin: 0; 
+    padding: 0;
   }
