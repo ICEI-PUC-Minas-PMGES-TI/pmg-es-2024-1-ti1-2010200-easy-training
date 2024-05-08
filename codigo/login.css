@@ -1,8 +1,10 @@
 * {
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
 }
-html{
+
+html {
   width: 100%;
   height: 100%;
   margin: 0;
@@ -14,12 +16,14 @@ html{
   color: #ffffff; /* Define a cor do texto como branco */
   padding: 10px; /* Ajuste o padding conforme necessário */
 }
-header{
+
+header {
   background:linear-gradient(270deg,#003886, rgb(0, 102, 255)) ;
   text-decoration: none;
   display: flex;
   width: 100%
 }
+
 nav {
   display: flex;
   justify-content: space-around;
@@ -27,15 +31,17 @@ nav {
   Arial, sans-serif;
   height: 8vh;
 }
+
 .menu {
   padding-top: 25px;
   list-style: none;
   display: flex;
 }
-footer{
-  padding-top: 200px;
+
+footer {
   letter-spacing: 3px;
 }
+
 .menu a {
   padding-top: px;
   text-decoration: none;
@@ -43,20 +49,22 @@ footer{
   margin-right:32px;
   color: #fcfcfc;
 }
-.tit_fichas_rec{
+
+.tit_fichas_rec {
   text-align: center;
   font-size: 1.9em;
   letter-spacing: 2px;
 }
 
-.card-text{
+.card-text {
   font-size: 2.0em;
   height: 100%;
 }
 
-#menuToggle{
+#menuToggle {
    display: none;
  }
+
   .menu-icon{
     display: none;
     z-index: 999999;
@@ -65,17 +73,19 @@ footer{
   #closeIcon {
       z-index: 1; /* Um valor maior do que o z-index do menu */
     }
-    #menuToggle{
+
+    #menuToggle {
       display: none;
     }
-     .menu-icon{
+
+     .menu-icon {
        display: none;
        z-index: 999999;
      }
 
-    @media only screen and (max-width: 786px){
+    @media only screen and (max-width: 786px) {
 
-      .card-text{
+      .card-text {
         font-size: 1.3em;
         height: 100%;
       }
@@ -88,12 +98,13 @@ footer{
         }
 
 
-    .header nav{
+    .header nav {
       display: absolute;
       width: 100%;
       height: 100%;
     }
-    .menu{
+
+    .menu {
       padding-top: 0px;
       display: flex;
       position: fixed;
@@ -112,26 +123,25 @@ footer{
       z-index: 9999;
     }
 
-    .titulo{
+    .titulo {
       width: 100%;
       font-size: large;
     }
+
     .menu li a {
       display: block;
       text-align: center;
       width: 100%;
-
-
     }
-    .menu li{
+
+    .menu li {
       display: block;
       width: 100%;
       margin-left: 0;
       margin-bottom: 0px;
-
     }
 
-    .menu-icon{
+    .menu-icon {
       display: block;
       color: #fcfcfc;
       width: 50px;
@@ -146,9 +156,10 @@ footer{
 
 
 
-    .menu-icon i{
+    .menu-icon i {
       font-size: 1.7em;
     }
+
     #menuToggle:checked ~ label .fa-bars {
       display: none;
     }
@@ -169,101 +180,113 @@ footer{
       height:30px;
     }
 
-    #menuToggle:checked ~ ul{
+    #menuToggle:checked ~ ul {
       height: 100%;
     }
   }
-@media only screen and (max-width: 568px){
-  .card-text{
+
+@media only screen and (max-width: 568px) {
+
+  .card-text {
     font-size: 0.7em;
     height: 100%;
   }
-  .tit_fichas_rec{
+
+  .tit_fichas_rec {
     font-size: 110%;
   }
 }
 
+
 /* Estilização da aba de login */ 
 
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-  }
-  
-  form {
-    max-width: 600px;
-    margin: 2rem auto;
-    background: #fff;
-    padding: 30px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    margin-top: 100px;
-  }
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+form {
+  max-width: 600px;
+  margin: 2rem auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 100px;
+}
 
 
-  h2 {
-    margin-bottom: 20px;
-  }
-  
-  label {
-    display: block;
-    margin-bottom: 5px;
-  }
-  
-  input[type="text"],
-  input[type="email"],
-  input[type="password"] {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 15px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    transition: border-color 0.3s;
-  }
-  
- form label,
- form input,
- form button {
-    display: block;
-    margin-bottom: 10px;
- }
 
-  input[type="text"]:focus,
-  input[type="email"]:focus,
-  input[type="password"]:focus {
-    outline: none;
-    border-color: rgb(0, 102, 255);
-  }
-  
-  button {
-    display: block;
-    width: 100%;
-    padding: 10px;
-    background-color: rgb(0, 102, 255);
-    color: #fff;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-  }
-  
-  button:hover {
-    background-color: #0056b3;
-  }
 
- footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    margin-bottom: 0px;
-    padding-bottom: 0;
-  }
 
-  .footer{
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    margin: 0; /* Remova o margin que está empurrando o footer para cima */
-    padding: 0;
-  }
+
+
+h2 {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: border-color 0.3s;
+}
+
+form label,
+form input,
+form select,
+form button {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="number"]:focus,
+input[type="password"]:focus {
+  outline: none;
+  border-color: rgb(0, 102, 255);
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(0, 102, 255);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  margin-bottom: 0px;
+  padding-bottom: 0;
+}
+
+.footer{
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  margin: 0; /* Remova o margin que está empurrando o footer para cima */
+  padding: 0;
+}
