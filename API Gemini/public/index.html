@@ -1,0 +1,98 @@
+<!-- teste ? node --experimental-modules index.mjs -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link href="/public/css/cadastrointeresse.css" rel="stylesheet" type="text/css">
+    <link href="/public/css/cadastrointeresse.css" rel="stylesheet" type="text/css">
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+      type="text/css"
+    />
+    <link href="/css/cadastrointeresse.css" rel="stylesheet" type="text/css">
+    <link
+      rel="stylesheet"
+      href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
+      type="text/css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;
+      0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;
+      1,900&display=swap"
+      rel="stylesheet"/>
+      <link rel="icon" type="image/png" sizes="16x16"  href="favicon-16x16.png" >
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+      <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="theme-color" content="#ffffff">
+  </head>
+  <body>  
+    <!-- Cabeçalho -->    
+    <header class="header">
+      <img class="img-fluid logo pb-3 ps-2" src="logoimg/Logo.png" alt="Logo - Easy Training">
+      <nav>
+        <input type="checkbox" id="menuToggle">
+        <label for="menuToggle" class="menu-icon">
+          <i id="closeIcon" class=" fa fa-bars"></i>
+          <i class="fa fa-times-circle "></i>
+        </label>
+        <ul class="menu">
+          <li><a class=" text-center" href="index.html">Home</a></li>
+          <li><a class=" text-center" href="login.html">Login</a></li>
+          <li><a class=" text-center" href="cadastro.html">Cadastro</a></li>
+          <li><a class=" text-center" href="contatos.html">Contatos</a></li>
+        </ul>
+
+      </nav>
+    </header>
+
+    <!--Cadastro De Interesses-->
+    <section>
+      <h2>Fale sobre você:</h2>
+
+      <div class="label">
+        <div>
+      Qual sua idade e seu peso?
+        </div>
+        <div>
+      Qual o seu objetivo (emagrecimento, hipertrofia, manutenção da saúde, qualidade de vida)?
+        </div>
+        <div>
+        Possui alguma restrição motora ou alguma lesão que te impeça de realizar algum exercício?
+        </div>
+        <div class="final">
+        Deseja ter ênfase em algum grupo muscular específico?
+        </div>
+      </div>
+      </label>
+      <form id="generateForm">
+        <label for="prompt">Prompt:</label><br>
+        <input type="text" id="prompt" name="prompt"><br>
+        <input type="submit" value="Gerar">
+      </form>
+      <script>
+        $('#generateForm').submit(function(e) {
+          e.preventDefault();
+          $.post('/generate', { prompt: $('#prompt').val() });
+        });
+      </script>
+       </section>
+       <footer>
+             <div class="footer">
+             <p class=" footer custom-gradient mt-5 py-4 text-center ">© Easy Training - 2024</p>
+             </div>
+           </footer>
+
+           <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+           <script src="cadastrointeresse.js"></script>
+         </body>
+
+       </html>
+
