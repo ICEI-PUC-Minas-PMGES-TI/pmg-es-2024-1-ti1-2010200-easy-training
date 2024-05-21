@@ -208,12 +208,9 @@ ul#ul-usuarios {
 
 ul#ul-usuarios li {
   box-sizing: border-box;
-  padding: 10px 10px;
-  margin-bottom: 20px;
   margin-left: 10px;
   background: #fff;
   border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 button#btn_logout {
@@ -233,20 +230,41 @@ button#btn_logout {
 }
 
 .nome{
-  display:inline-flex;
- 
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 100px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
 }
 
 .Login{
   display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 100px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  margin-bottom: 20px;
 }
 .email{
   display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 100px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  margin-bottom: 20px;
 }
 .senha{
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 10px 100px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  margin-bottom: 20px;
   }
 
   .container-perfil{
@@ -262,4 +280,9 @@ button#btn_logout {
   justify-content: center;
   margin-top: 56px;
   height: 30.2rem; 
+}
+
+.fa-regular{
+  justify-content: center;
+  justify-content: center;
 }
