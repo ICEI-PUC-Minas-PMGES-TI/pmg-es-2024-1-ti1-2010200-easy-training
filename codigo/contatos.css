@@ -83,29 +83,6 @@
          z-index: 999999;
        }
 
-       .contatos {
-        text-align: center;
-        display: block;
-            justify-content: center;
-            align-items: center;
-            height: 10vh;
-            margin: 10;
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
-            font-size: 30px;
-            color: rgb(0, 102, 255);
-       }
-        .contatos p {
-
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-
-        }
-       .contatos h2 {
-        margin-top: 3%;
-        font-size: 50px;
-        text-align: left;
-        padding-left: 2%;
-
-       }
   
       @media only screen and (max-width: 786px) {
   
@@ -222,78 +199,66 @@
   }
   
   
-  /* Estilização da aba de login */ 
+  /* Estilização da aba de contatos */ 
   
-  body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-  
+  .contatos {
+  max-width: 1000px;
+  margin: 2rem auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 130px;
   }
   
-  form {
-    max-width: 600px;
-    margin: 2rem auto;
-    background: #fff;
-    padding: 30px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    margin-top: 100px;
+  .container-contatos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
   }
   
-  h2 {
-    margin-bottom: 20px;
+  .contatos-email,
+  .contatos-telefone,
+  .contatos-endereco {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   
-  label {
-    display: block;
-    margin-bottom: 5px;
+  .contatos-email {
+    grid-column: 1 / span 1;
   }
   
-  input[type="text"],
-  input[type="email"],
-  input[type="number"],
-  input[type="password"] {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 15px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    transition: border-color 0.3s;
+  .contatos-telefone {
+    grid-column: 2 / span 1;
   }
   
-  form label,
-  form input,
-  form select,
-  form button {
-    display: block;
-    margin-bottom: 10px;
+  .contatos-endereco {
+    grid-column: 3 / span 1;
   }
   
-  input[type="text"]:focus,
-  input[type="email"]:focus,
-  input[type="number"]:focus,
-  input[type="password"]:focus {
-    outline: none;
-    border-color: rgb(0, 102, 255);
+  @media screen and (max-width: 768px) {
+    .contatos{
+      margin: 2rem auto;
   }
-  
-  button {
-    display: block;
-    width: 100%;
-    padding: 10px;
-    background-color: rgb(0, 102, 255);
-    color: #fff;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s;
+    .container-contatos {
+      grid-template-columns: 1fr; 
+    }
+    .contatos-email {
+      grid-column: 1 / span 1;
+    }
+    
+    .contatos-telefone {
+      grid-column: 1 / span 1;
+    }
+    
+    .contatos-endereco {
+      grid-column: 1 / span 1;
+    }
   }
-  
-  button:hover {
-    background-color: #0056b3;
-  }
-  
-  footer {
+   
+  footer{
     position: fixed;
     left: 0;
     bottom: 0;
