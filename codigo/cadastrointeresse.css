@@ -60,6 +60,7 @@
     font-size: 2.0em;
     height: 100%;
   }
+
   
   #menuToggle {
      display: none;
@@ -262,6 +263,29 @@ textarea {
   
   button:hover {
     background-color: #0056b3;
+  }
+
+  .card-img-overlay {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .ContainerButton {
+    display: flex;
+    justify-content: center;
+    margin-top: auto;
+    padding: 10px;
+  }
+  
+  .ButtonGerarFicha .btn {
+    background-color: rgba(255, 255, 255, 0.8); /* Background color with transparency */
+    border: none;
+    color: #000; /* Text color */
+  }
+  
+  .ButtonGerarFicha .btn:hover {
+    background-color: rgba(255, 255, 255, 1); /* Background color on hover */
   }
 
   footer {

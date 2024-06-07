@@ -33,7 +33,7 @@
     display: flex;
   }
   footer{
-    padding-top: 200px;
+
     letter-spacing: 3px;
   }
   .menu a {
@@ -72,6 +72,68 @@
          display: none;
          z-index: 999999;
        }
+
+       .ContainerButton
+       {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          margin: 1px solid black;
+          margin-top: 25px;
+      }
+      
+
+      .ButtonGerarFicha{
+        width: 70%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 25px;
+        border-radius: 10px;
+      }
+
+       button{
+        display: block;
+        width: 60em;
+        padding: 1em;
+        font-size: 1em;
+        background:rgb(0, 102, 255);
+        color: #fff;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s;
+        border-radius: 10px;
+      }
+    
+      .gerarficha{
+        border-radius: 10px;
+        font-size: 1.2rem;
+      }
+
+      .card-text{
+        font-size: 2rem;
+      }
+
+      button:hover {
+        background-color: #0056b3;
+      }
+
+
+   .card-text{
+    max-height: 50%;
+    margin: 0;
+   }
+
+   .card-image-overlay{
+    padding: 20px;
+    height: 300px;
+   }
+
+   .card-img{
+    height: 18rem;
+   }
+
   
       @media only screen and (max-width: 786px){
   
@@ -147,7 +209,7 @@
   
   
       .menu-icon i{
-        font-size: 1.7em;
+        font-size: 2em;
       }
       #menuToggle:checked ~ label .fa-bars {
         display: none;
@@ -175,11 +237,12 @@
     }
   @media only screen and (max-width: 568px){
     .card-text{
-      font-size: 0.7em;
-      height: 100%;
+      font-size: 1.1em;
+      height: 90%;
     }
     .tit_fichas_rec{
       font-size: 110%;
     }
   }
+  
   
