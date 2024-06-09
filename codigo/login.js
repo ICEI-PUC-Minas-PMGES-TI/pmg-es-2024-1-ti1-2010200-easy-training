@@ -179,3 +179,55 @@ function initPage() {
 
 // Associa ao evento de carga da página a função para verificar se o usuário está logado
 window.addEventListener('load', initPage);
+window.addEventListener('DOMContentLoaded', (event) => {
+    // Função para abrir o modal de edição
+    function abrirModalEdicao() {
+        // Preenche os campos do modal com os dados do usuário corrente
+        document.getElementById('editNome').value = usuarioCorrente.nome;
+        document.getElementById('editLogin').value = usuarioCorrente.login;
+        document.getElementById('editEmail').value = usuarioCorrente.email;
+        document.getElementById('editSenha').value = usuarioCorrente.senha;
+
+        // Exibe o modal
+        $('#modalEdicao').modal('show');
+    }
+
+   // Função para salvar as edições do usuário
+function salvarEdicaoUsuario() {
+    // Atualiza os dados do usuário corrente com os novos valores dos campos do modal
+    usuarioCorrente.nome = document.getElementById('editNome').value;
+    usuarioCorrente.login = document.getElementById('editLogin').value;
+    usuarioCorrente.email = document.getElementById('editEmail').value;
+    usuarioCorrente.senha = document.getElementById('editSenha').value;
+
+    // Atualiza o banco de dados de usuários
+    for (var i = 0; i < db_usuarios.usuarios.length; i++) {
+        if (db_usuarios.usuarios[i].id === usuarioCorrente.id) {
+            db_usuarios.usuarios[i] = usuarioCorrente;
+            break;
+        }
+    }
+
+    // Salva o banco de dados atualizado no localStorage
+    localStorage.setItem('db_usuarios', JSON.stringify(db_usuarios));
+
+    // Atualiza o usuário corrente no sessionStorage
+    sessionStorage.setItem('usuarioCorrente', JSON.stringify(usuarioCorrente));
+
+    // Atualiza a exibição do usuário corrente
+    exibeUsuarioCorrente();
+
+    // Fecha o modal
+    $('#modalEdicao').modal('hide');
+}
+    
+
+    let btnEditar = document.getElementById('btn_editar');
+    if(btnEditar) {
+        btnEditar.addEventListener('click', abrirModalEdicao);
+    } else {
+        console.log("Elemento com id 'btn_editar' não encontrado");
+    }
+
+    document.getElementById('btn_salvar_edicao').addEventListener('click', salvarEdicaoUsuario);
+});
