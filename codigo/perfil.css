@@ -214,6 +214,7 @@ ul#ul-usuarios li {
 }
 
 button#btn_logout {
+  margin-top: 10px;
   display: block;
   width: 100%;
   padding: 10px;
@@ -224,7 +225,18 @@ button#btn_logout {
   cursor: pointer;
   transition: background-color 0.3s;
 }
-
+button#btn_editar {
+  
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(0, 102, 255);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
 #nomeUsuario{
   margin-bottom: 20px;
 }
