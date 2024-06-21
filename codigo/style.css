@@ -205,8 +205,12 @@
         cursor: pointer;
       }
   
-  
-  
+      .usuario-senha-password::before {
+        font-family: 'Arial', sans-serif;
+        letter-spacing: 2px; /* Espaçamento entre letras para melhor aparência */
+        -webkit-text-security: disc; /* Estilo de segurança de texto no Webkit */
+        text-security: disc; /* Estilo de segurança de texto no Firefox (futuro) */
+    }
   
       .menu-icon i{
         font-size: 2em;
@@ -235,6 +239,19 @@
         height: 100%;
       }
     }
+
+    .bemvindo {
+      position: absolute; 
+      top: 87px; 
+      right: 15px;
+      background: linear-gradient(270deg, #003886, rgb(0, 102, 255)); 
+      color: #fff;
+      padding: 10px 20px; 
+      border-radius: 5px;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); 
+      z-index: 1000; 
+  }
+
   @media only screen and (max-width: 568px){
     .card-text{
       font-size: 1.1em;

@@ -121,7 +121,7 @@ if (usuarioCorrente && usuarioCorrente.login) {
     function atualizarMenuCabecalho() {
         var menuLogin = document.getElementById('login');
         var menuCadastro = document.getElementById('cadastro');
-        if (menuLogin) {
+        if (menuLogin && menuCadastro) {
             menuLogin.remove(); // Remove o item de login
             menuCadastro.remove();
             var novoItem = document.createElement('li');
@@ -136,8 +136,22 @@ if (usuarioCorrente && usuarioCorrente.login) {
         }
     }
 
-    // Chama a função para atualizar o menu do cabeçalho ao carregar a página
-    window.addEventListener('load', atualizarMenuCabecalho);
+    // Função para exibir mensagem de boas-vindas
+    function bemvindo(usuarioCorrente) {
+        var cabecalho = document.querySelector('.bemvindo1');
+        if (cabecalho && usuarioCorrente && usuarioCorrente.nome) {
+            var bem_vindo = document.createElement('div');
+            bem_vindo.classList.add('bemvindo');
+            bem_vindo.innerHTML = `bem-vindo ${usuarioCorrente.nome}`;
+            cabecalho.appendChild(bem_vindo);
+        }
+    }
+
+    // Chama as funções para atualizar o menu do cabeçalho e exibir mensagem de boas-vindas ao carregar a página
+    window.addEventListener('load', () => {
+        atualizarMenuCabecalho();
+        bemvindo(usuarioCorrente);
+    });
 }
 
 function exibeUsuarioCorrente() {
@@ -158,9 +172,8 @@ function exibeUsuarioCorrente() {
         </div>
         <div class="senha">
         <i class="fa-solid fa-lock"></i>
-        <li class="usuario-senha">Senha: ${usuario.senha}</li>
-        </div>
-    `;
+        <li class="usuario-senha-password">Senha: ${usuario.senha}</li>
+        </div> `;
 
     // Substitui os itens do corpo da lista com os itens do usuário corrente
     document.getElementById('ul-usuarios').innerHTML = usuarioLista;
