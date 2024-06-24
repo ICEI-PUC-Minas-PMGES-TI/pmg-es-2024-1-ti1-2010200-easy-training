@@ -94,7 +94,7 @@ function loginUser(login, senha) {
 function logoutUser() {
     usuarioCorrente = {};
     sessionStorage.setItem('usuarioCorrente', JSON.stringify(usuarioCorrente));
-    window.location = "index.html";
+    window.location = "/codigo/index.html";
 }
 
 function addUser(nome, login, senha, email) {
@@ -121,13 +121,17 @@ if (usuarioCorrente && usuarioCorrente.login) {
     function atualizarMenuCabecalho() {
         var menuLogin = document.getElementById('login');
         var menuCadastro = document.getElementById('cadastro');
+        
         if (menuLogin && menuCadastro) {
             menuLogin.remove(); // Remove o item de login
             menuCadastro.remove();
+            
             var novoItem = document.createElement('li');
-            novoItem.innerHTML = '<a class="text-center" href="perfil.html">Perfil</a>';
+            novoItem.innerHTML = `<a class="text-center" href="${getPerfilLink()}">Perfil</a>`;
+            
             // Selecionar o elemento <ul> que contém os itens do menu
             var menu = document.querySelector('.menu');
+            
             // Verificar se o menu existe e tem pelo menos um filho
             if (menu && menu.children.length > 1) {
                 // Inserir o novo item antes do segundo item da lista (índice 1)
@@ -136,13 +140,27 @@ if (usuarioCorrente && usuarioCorrente.login) {
         }
     }
 
+    // Função para obter o link correto para perfil.html
+    function getPerfilLink() {
+        var currentPath = window.location.pathname;
+
+        if (currentPath.includes('/pages/')) {
+            // Se a página atual está dentro de /pages/, navega para fora
+            return 'perfil.html'; // Caminho para fora de /pages/
+        } else {
+            // Se a página atual está fora de /pages/, navega para dentro de /pages/
+            return 'pages/perfil.html';
+        }
+    }
+
     // Função para exibir mensagem de boas-vindas
     function bemvindo(usuarioCorrente) {
         var cabecalho = document.querySelector('.bemvindo1');
+        
         if (cabecalho && usuarioCorrente && usuarioCorrente.nome) {
             var bem_vindo = document.createElement('div');
             bem_vindo.classList.add('bemvindo');
-            bem_vindo.innerHTML = `bem-vindo ${usuarioCorrente.nome}`;
+            bem_vindo.innerHTML = `Bem-vindo ${usuarioCorrente.nome}`;
             cabecalho.appendChild(bem_vindo);
         }
     }
@@ -153,6 +171,9 @@ if (usuarioCorrente && usuarioCorrente.login) {
         bemvindo(usuarioCorrente);
     });
 }
+
+
+
 
 function exibeUsuarioCorrente() {
     // Cria os itens de lista para o usuário corrente
@@ -244,3 +265,7 @@ function salvarEdicaoUsuario() {
 
     document.getElementById('btn_salvar_edicao').addEventListener('click', salvarEdicaoUsuario);
 });
+
+
+
+
