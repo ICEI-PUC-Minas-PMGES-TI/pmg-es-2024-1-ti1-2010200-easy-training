@@ -1,0 +1,725 @@
+[
+    {
+        "id": 1,
+        "grupoMuscular": "peito",
+        "nivel": "iniciante",
+        "objetivo": "hipertrofia",
+        "equipamento": "academia",
+        "descricao": "Peito: <br> Supino Reto com Barra - 4 séries de 8-10 repetições <br> Supino Inclinado com Halteres - 3 séries de 10-12 repetições <br> Crucifixo Reto com Halteres - 3 séries de 12-15 repetições <br> Cross Over (Crossover de Cabos) - 3 séries de 12-15 repetições <br> Paralelas (Dips) - 3 séries até a falha"
+    }
+    ,
+    {
+        "id": 2,
+        "grupoMuscular": "peito",
+        "nivel": "iniciante",
+        "objetivo": "hipertrofia",
+        "equipamento": "casa",
+        "descricao": "Peito: <br> Flexão de Braços - 4 séries de 8-10 repetições <br> Flexão Inclinada - 3 séries de 10-12 repetições <br> Crucifixo com Halteres - 3 séries de 12-15 repetições <br> Aberturas com Halteres - 3 séries de 12-15 repetições <br> Flexão Diamante - 3 séries até a falha"
+    }
+    ,
+    {   
+        "id": 3,
+        "grupoMuscular": "peito",
+        "nivel": "iniciante",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Peito: <br> Supino Reto com Barra Pesada - 4 séries de 5-7 repetições <br> Supino Inclinado com Barra - 3 séries de 6-8 repetições <br> Crucifixo Reto na Máquina - 3 séries de 8-10 repetições <br> Peck Deck - 3 séries de 8-10 repetições <br> Flexão com Peso - 3 séries de 6-8 repetições"
+    },
+    {
+        "id": 4,
+        "grupoMuscular": "peito",
+        "nivel": "iniciante",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Peito: <br> Flexão de Braços com Peso - 4 séries de 5-7 repetições <br> Flexão Declinada - 3 séries de 6-8 repetições <br> Crucifixo com Bandas Elásticas - 3 séries de 8-10 repetições <br> Aberturas com Bandas Elásticas - 3 séries de 8-10 repetições <br> Flexão Explosiva - 3 séries de 5-7 repetições"
+    },
+    {   
+        "id": 5,
+        "grupoMuscular": "peito",
+        "nivel": "iniciante",
+        "objetivo": "emagrecimento",
+        "equipamento": "academia",
+        "descricao": "Peito: <br> Supino Reto com Barra - 4 séries de 12-15 repetições <br> Supino Inclinado com Halteres - 3 séries de 15-20 repetições <br> Crucifixo Reto com Halteres - 3 séries de 15-20 repetições <br> Cross Over (Crossover de Cabos) - 3 séries de 15-20 repetições <br> Paralelas (Dips) - 3 séries de 12-15 repetições"
+    },
+    {   
+        "id": 6,
+        "grupoMuscular": "peito",
+        "nivel": "iniciante",
+        "objetivo": "emagrecimento",
+        "equipamento": "casa",
+        "descricao": "Peito: <br> Flexão de Braços - 4 séries de 12-15 repetições <br> Flexão Inclinada - 3 séries de 15-20 repetições <br> Crucifixo com Halteres Leves - 3 séries de 15-20 repetições <br> Aberturas com Halteres Leves - 3 séries de 15-20 repetições <br> Flexão Diamante - 3 séries de 12-15 repetições"
+    }
+    ,
+    {   
+        "id": 7,
+        "grupoMuscular": "peito",
+        "nivel": "intermediario",
+        "objetivo": "hipertrofia",
+        "equipamento": "academia",
+        "descricao": "Peito: <br> Supino Reto com Barra - 4 séries de 8-10 repetições <br> Supino Inclinado com Barra - 3 séries de 10-12 repetições <br> Crucifixo Inclinado com Halteres - 3 séries de 10-12 repetições <br> Pullover com Halteres - 3 séries de 10-12 repetições <br> Fly Declinado na Máquina - 3 séries de 10-12 repetições"
+    },
+    {   
+        "id": 8,
+        "grupoMuscular": "peito",
+        "nivel": "intermediario",
+        "objetivo": "hipertrofia",
+        "equipamento": "casa",
+        "descricao": "Peito: <br> Supino com Halteres - 4 séries de 8-10 repetições <br> Supino Inclinado com Halteres - 3 séries de 10-12 repetições <br> Flexão Declinada - 3 séries de 10-12 repetições <br> Crucifixo com Bandas Elásticas - 3 séries de 10-12 repetições <br> Flexão com Peso - 3 séries de 10-12 repetições"
+    },
+    {
+        "id": 9,
+        "grupoMuscular": "peito",
+        "nivel": "intermediario",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Peito: <br> Supino com Halteres Pesados - 4 séries de 5-7 repetições <br> Supino Inclinado com Halteres Pesados - 3 séries de 6-8 repetições <br> Flexão com Peso - 3 séries de 6-8 repetições <br> Crucifixo com Bandas Elásticas Pesadas - 3 séries de 6-8 repetições <br> Flexão Explosiva - 3 séries de 5-7 repetições"
+    },
+    {   
+        "id": 10,
+        "grupoMuscular": "peito",
+        "nivel": "intermediario",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Peito: <br> Supino com Halteres Pesados - 4 séries de 5-7 repetições <br> Supino Inclinado com Halteres Pesados - 3 séries de 6-8 repetições <br> Flexão com Peso - 3 séries de 6-8 repetições <br> Crucifixo com Bandas Elásticas Pesadas - 3 séries de 6-8 repetições <br> Flexão Explosiva - 3 séries de 5-7 repetições"
+    },
+    {
+        "id": 11,
+        "grupoMuscular": "peito",
+        "nivel": "avancado",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Peito: <br> Supino com Halteres Pesados - 5 séries de 5-7 repetições <br> Supino Inclinado com Halteres Pesados - 4 séries de 6-8 repetições <br> Flexão com Peso - 4 séries de 6-8 repetições <br> Crucifixo com Bandas Elásticas Pesadas - 4 séries de 6-8 repetições <br> Flexão Explosiva - 4 séries de 5-7 repetições"
+    },
+    {
+        "id": 12,
+        "grupoMuscular": "peito",
+        "nivel": "intermediario",
+        "objetivo": "emagrecimento",
+        "equipamento": "academia",
+        "descricao": "Peito: <br> Supino Reto com Barra Leve - 4 séries de 12-15 repetições <br> Supino Inclinado com Halteres Leves - 3 séries de 15-20 repetições <br> Crucifixo na Máquina - 3 séries de 15-20 repetições <br> Pullover na Máquina - 3 séries de 15-20 repetições <br> Fly Declinado na Máquina - 3 séries de 12-15 repetições"
+    },
+    {
+        "id": 13,
+        "grupoMuscular": "peito",
+        "nivel": "intermediario",
+        "objetivo": "emagrecimento",
+        "equipamento": "casa",
+        "descricao": "Peito: <br> Supino com Halteres Leves - 4 séries de 12-15 repetições <br> Supino Inclinado com Halteres Leves - 3 séries de 15-20 repetições <br> Flexão Declinada - 3 séries de 15-20 repetições <br> Crucifixo com Bandas Elásticas Leves - 3 séries de 15-20 repetições <br> Flexão Diamante - 3 séries de 12-15 repetições"
+    },
+    {
+        "id": 14,
+        "grupoMuscular": "peito",
+        "nivel": "avancado",
+        "objetivo": "hipertrofia",
+        "equipamento": "academia",
+        "descricao": "Peito: <br> Supino Reto com Barra - 5 séries de 8-10 repetições <br> Supino Inclinado com Barra - 4 séries de 10-12 repetições <br> Crucifixo na Máquina - 4 séries de 10-12 repetições <br> Pullover com Halteres Pesados - 4 séries de 10-12 repetições <br> Fly Declinado na Máquina - 4 séries de 10-12 repetições"
+    },
+    {
+        "id": 15,
+        "grupoMuscular": "peito",
+        "nivel": "avancado",
+        "objetivo": "hipertrofia",
+        "equipamento": "casa",
+        "descricao": "Peito: <br> Supino com Halteres Pesados - 5 séries de 8-10 repetições <br> Supino Inclinado com Halteres Pesados - 4 séries de 10-12 repetições <br> Flexão Declinada - 4 séries de 10-12 repetições <br> Crucifixo com Bandas Elásticas Pesadas - 4 séries de 10-12 repetições <br> Flexão com Peso - 4 séries de 8-10 repetições"
+    },
+    {
+        "id": 16,
+        "grupoMuscular": "peito",
+        "nivel": "avancado",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Peito: <br> Supino Reto com Barra Pesada - 5 séries de 5-7 repetições <br> Supino Inclinado com Barra Pesada - 4 séries de 6-8 repetições <br> Crucifixo com Halteres Pesados - 4 séries de 6-8 repetições <br> Peck Deck - 4 séries de 6-8 repetições <br> Flexão com Peso - 4 séries de 5-7 repetições"
+    },
+    {
+        "id": 17,
+        "grupoMuscular": "peito",
+        "nivel": "avancado",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Peito: <br> Supino com Halteres Pesados - 5 séries de 5-7 repetições <br> Supino Inclinado com Halteres Pesados - 4 séries de 6-8 repetições <br> Flexão com Peso - 4 séries de 6-8 repetições <br> Crucifixo com Bandas Elásticas Pesadas - 4 séries de 6-8 repetições <br> Flexão Explosiva - 4 séries de 5-7 repetições"
+    },
+    {
+        "id": 18,
+        "grupoMuscular": "peito",
+        "nivel": "avancado",
+        "objetivo": "emagrecimento",
+        "equipamento": "academia",
+        "descricao": "Peito: <br> Supino Reto com Barra Leve - 5 séries de 12-15 repetições <br> Supino Inclinado com Halteres Leves - 4 séries de 15-20 repetições <br> Crucifixo na Máquina - 4 séries de 15-20 repetições <br> Pullover na Máquina - 4 séries de 15-20 repetições <br> Fly Declinado na Máquina - 4 séries de 12-15 repetições"
+    },
+    {
+        "id": 19,
+        "grupoMuscular": "peito",
+        "nivel": "avancado",
+        "objetivo": "emagrecimento",
+        "equipamento": "casa",
+        "descricao": "Peito: <br> Supino com Halteres Leves - 5 séries de 12-15 repetições <br> Supino Inclinado com Halteres Leves - 4 séries de 15-20 repetições <br> Flexão Declinada - 4 séries de 15-20 repetições <br> Crucifixo com Bandas Elásticas Leves - 4 séries de 15-20 repetições <br> Flexão Diamante - 4 séries de 12-15 repetições"
+    },
+    {
+        "id": 20,
+        "grupoMuscular": "costas",
+        "nivel": "iniciante",
+        "objetivo": "hipertrofia",
+        "equipamento": "casa",
+        "descricao": "Costas: <br> Remada com Halteres - 3 séries de 10 repetições <br> Pull-up - 3 séries de 8 repetições <br> Remada Unilateral com Elástico - 3 séries de 12 repetições <br> Prancha - 3 séries de 30 segundos"
+    },
+    {
+        "id": 21,
+        "grupoMuscular": "costas",
+        "nivel": "intermediario",
+        "objetivo": "emagrecimento",
+        "equipamento": "academia",
+        "descricao": "Costas: <br> Remada com Halteres - 3 séries de 10 repetições <br> Pull-up - 3 séries de 8 repetições <br> Remada Unilateral com Elástico - 3 séries de 12 repetições <br> Prancha - 3 séries de 30 segundos"
+    },
+    {
+        "id": 22,
+        "grupoMuscular": "costas",
+        "nivel": "intermediario",
+        "objetivo": "hipertrofia",
+        "equipamento": "casa",
+        "descricao": "Costas: <br> Remada Curvada - 4 séries de 8-10 repetições <br> Chin-up - 4 séries de 6-8 repetições <br> Pulldown na Máquina - 4 séries de 8-10 repetições <br> Hiperextensão - 3 séries de 12 repetições"
+    }, 
+    {
+        "id": 23,
+        "grupoMuscular": "costas",
+        "nivel": "avancado",
+        "objetivo": "hipertrofia",
+        "equipamento": "casa",
+        "descricao": "Costas: <br> Puxada no TRX - 5 séries de 6-8 repetições <br> Remada Invertida - 5 séries de 6-8 repetições <br> Pull-over com Halteres - 4 séries de 8-10 repetições <br> Barra Fixa - 4 séries de 6-8 repetições"
+    },
+    {
+        "id": 24,
+        "grupoMuscular": "costas",
+        "nivel": "iniciante",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Costas: <br> Remada Inclinada - 4 séries de 5 repetições <br> Barra Fixa Assistida - 4 séries de 5 repetições <br> Puxada com Elástico - 4 séries de 8 repetições <br> Superman - 3 séries de 10 repetições"
+    },
+    {
+        "id": 25,
+        "grupoMuscular": "costas",
+        "nivel": "intermediario",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Costas: <br> Remada T - 5 séries de 5 repetições <br> Barra Fixa - 5 séries de 5 repetições <br> Puxada na Máquina - 5 séries de 6-8 repetições <br> Hiperextensão - 4 séries de 8 repetições"
+    },
+    {
+        "id": 26,
+        "grupoMuscular": "costas",
+        "nivel": "avancado",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Costas: <br> Remada Cavalinho - 6 séries de 3-5 repetições <br> Barra Fixa com Peso - 6 séries de 3-5 repetições <br> Puxada Frontal - 5 séries de 5 repetições <br> Peso Morto - 4 séries de 5 repetições"
+    },
+    {
+        "id": 27,
+        "grupoMuscular": "costas",
+        "nivel": "iniciante",
+        "objetivo": "emagrecimento",
+        "equipamento": "casa",
+        "descricao": "Costas: <br> Remada Unilateral - 3 séries de 12 repetições <br> Pull-up Assistido - 3 séries de 10 repetições <br> Prancha Lateral - 3 séries de 20 segundos cada lado <br> Corrida Estacionária - 3 séries de 30 segundos"
+    },
+    {
+        "id": 28,
+        "grupoMuscular": "costas",
+        "nivel": "intermediario",
+        "objetivo": "emagrecimento",
+        "equipamento": "casa",
+        "descricao": "Costas: <br> Remada Curvada - 4 séries de 10 repetições <br> Chin-up - 4 séries de 8 repetições <br> Pulldown na Máquina - 4 séries de 10 repetições <br> Prancha - 3 séries de 45 segundos"
+    },
+    {
+        "id": 29,
+        "grupoMuscular": "costas",
+        "nivel": "avancado",
+        "objetivo": "emagrecimento",
+        "equipamento": "casa",
+        "descricao": "Costas: <br> Puxada no TRX - 5 séries de 8-10 repetições <br> Remada Invertida - 5 séries de 8-10 repetições <br> Pull-over com Halteres - 4 séries de 10-12 repetições <br> Corrida de Alta Intensidade - 20 minutos"
+    },
+    {
+        "id": 30,
+        "grupoMuscular": "costas",
+        "nivel": "iniciante",
+        "objetivo": "hipertrofia",
+        "equipamento": "academia",
+        "descricao": "Costas: <br> Puxada Frontal - 3 séries de 12 repetições <br> Remada na Máquina - 3 séries de 10 repetições <br> Pulldown - 3 séries de 12 repetições <br> Encolhimento de Ombros - 3 séries de 12 repetições"
+    },
+    {
+        "id": 31,
+        "grupoMuscular": "costas",
+        "nivel": "intermediario",
+        "objetivo": "hipertrofia",
+        "equipamento": "academia",
+        "descricao": "Costas: <br> Remada Curvada - 4 séries de 8 repetições <br> Pull-up - 4 séries de 6 repetições <br> Pulldown com Triângulo - 4 séries de 8 repetições <br> Hiperextensão - 3 séries de 10 repetições"
+    },
+    {
+        "id": 32,
+        "grupoMuscular": "costas",
+        "nivel": "avancado",
+        "objetivo": "hipertrofia",
+        "equipamento": "academia",
+        "descricao": "Costas: <br> Remada Cavalinho - 5 séries de 6-8 repetições <br> Barra Fixa - 5 séries de 6-8 repetições <br> Pulldown na Polia Alta - 5 séries de 8-10 repetições <br> Puxada Alta na Polia - 4 séries de 8-10 repetições <br> Remada Serrote - 4 séries de 5 repetições"
+    },
+    {
+        "id": 33,
+        "grupoMuscular": "costas",
+        "nivel": "iniciante",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Costas: <br> Remada Serrote - 4 séries de 5 repetições <br> Assistência na Barra Fixa - 4 séries de 5 repetições <br> Pulldown com Barra Reta - 4 séries de 5 repetições <br> Prancha - 3 séries de 30 segundos <br> Remada Serrote - 4 séries de 5 repetições"
+    },
+    {
+        "id": 34,
+        "grupoMuscular": "costas",
+        "nivel": "intermediario",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Costas: <br> Remada Curvada com Pegada Fechada - 5 séries de 5 repetições <br> Barra Fixa - 5 séries de 5 repetições <br> Pulldown com Barra V - 5 séries de 5 repetições <br> Hiperextensão - 4 séries de 8 repetições"
+    },
+    {
+        "id": 35,
+        "grupoMuscular": "costas",
+        "nivel": "avancado",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Costas: <br> Remada T - 6 séries de 3-5 repetições <br> Barra Fixa com Peso - 6 séries de 3-5 repetições <br> Pulldown com Pegada Neutra - 5 séries de 5 repetições <br> Peso Morto - 4 séries de 5 repetições"
+    },
+    {
+        "id": 36,
+        "grupoMuscular": "pernas",
+        "nivel": "iniciante",
+        "objetivo": "hipertrofia",
+        "equipamento": "casa",
+        "descricao": "Pernas: <br> Agachamento com Peso Corporal - 3 séries de 12 repetições <br> Lunges - 3 séries de 12 repetições (cada perna) <br> Calf Raises - 3 séries de 15 repetições <br> Prancha - 3 séries de 45 segundos"
+    },
+    {
+        "id": 37,
+        "grupoMuscular": "pernas",
+        "nivel": "iniciante",
+        "objetivo": "hipertrofia",
+        "equipamento": "academia",
+        "descricao": "Pernas: <br> Leg Press - 3 séries de 12 repetições <br> Leg Extension - 3 séries de 12 repetições <br> Leg Curl - 3 séries de 12 repetições <br> Agachamento com Peso Corporal - 3 séries de 12 repetições"
+    },
+    {
+        "id": 38,
+        "grupoMuscular": "pernas",
+        "nivel": "iniciante",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Pernas: <br> Squats - 5 séries de 5 repetições <br> Deadlifts - 5 séries de 5 repetições <br> Lunges - 4 séries de 6-8 repetições (cada perna) <br> Prancha - 3 séries de 45 segundos"
+    },
+    {
+        "id": 39,
+        "grupoMuscular": "pernas",
+        "nivel": "iniciante",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Pernas: <br> Levantamento terra - 5 séries de 5 repetições <br> Coice na polia - 3 séries de 8 repetições (cada perna) <br> Leg Press - 4 séries de 6-8 repetições <br> Agachamento com Peso Corporal - 3 séries de 12 repetições"
+    },
+    {
+        "id": 40,
+        "grupoMuscular": "pernas",
+        "nivel": "iniciante",
+        "objetivo": "emagrecimento",
+        "equipamento": "casa",
+        "descricao": "Pernas: <br> Prancha - 3 séries de 45 segundos <br> Step-Ups - 3 séries de 12 repetições (cada perna) <br> Mountain Climbers - 3 séries de 20 repetições <br> Agachamento com Peso Corporal - 3 séries de 12 repetições"
+    },
+    {
+        "id": 41,
+        "grupoMuscular": "pernas",
+        "nivel": "iniciante",
+        "objetivo": "emagrecimento",
+        "equipamento": "academia",
+        "descricao": "Pernas: <br> Treadmill Incline Walk - 30 minutos <br> Stationary Bike - 20 minutos <br> Leg Press - 3 séries de 12 repetições <br> Agachamento com Peso Corporal - 3 séries de 12 repetições <br> Prancha - 3 séries de 45 segundos"
+    },
+    {
+        "id": 42,
+        "grupoMuscular": "pernas",
+        "nivel": "intermediario",
+        "objetivo": "hipertrofia",
+        "equipamento": "casa",
+        "descricao": "Pernas: <br> Agachamento com Barra - 4 séries de 8-10 repetições <br> Búlgaro com Halteres - 4 séries de 10 repetições (cada perna) <br> Calf Raises - 4 séries de 12 repetições <br> Prancha - 3 séries de 45 segundos"
+    },
+    {
+        "id": 43,
+        "grupoMuscular": "pernas",
+        "nivel": "intermediario",
+        "objetivo": "hipertrofia",
+        "equipamento": "academia",
+        "descricao": "Pernas: <br> Hack Squat - 4 séries de 8-10 repetições <br> Leg Press - 4 séries de 10 repetições <br> Leg Curl - 4 séries de 12 repetições <br> Agachamento com Peso Corporal - 3 séries de 12 repetições <br> Prancha - 3 séries de 45 segundos"
+    },
+    {
+        "id": 44,
+        "grupoMuscular": "pernas",
+        "nivel": "intermediario",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Pernas: <br> Front Squats - 5 séries de 5 repetições <br> Deadlifts - 5 séries de 5 repetições <br> Agachamento búlgaro no banco - 4 séries de 6-8 repetições (cada perna)"
+    },
+    {
+        "id": 45,
+        "grupoMuscular": "pernas",
+        "nivel": "intermediario",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Pernas: <br> Agachamento sumô - 5 séries de 5 repetições <br> Leg Press - 5 séries de 5 repetições <br> Cadeira extensora - 4 séries de 6-8 repetições <br> Cadeira flexora - 4 séries de 6-8 repetições"
+    },
+    {
+        "id": 46,
+        "grupoMuscular": "pernas",
+        "nivel": "intermediario",
+        "objetivo": "emagrecimento",
+        "equipamento": "casa",
+        "descricao": "Pernas: <br> Jump Squats - 3 séries de 15 repetições <br> Step-Ups - 3 séries de 12 repetições (cada perna) <br> Box Jumps - 3 séries de 10 repetições <br> Cadeira extensora - 4 séries de 6-8 repetições"
+    },
+    {
+        "id": 47,
+        "grupoMuscular": "pernas",
+        "nivel": "intermediario",
+        "objetivo": "emagrecimento",
+        "equipamento": "academia",
+        "descricao": "Pernas: <br> Stair Climber - 30 minutos <br> Stationary Bike Intervals - 20 minutos <br> Leg Press - 3 séries de 12 repetições <br> Cadeira extensora - 4 séries de 6-8 repetições <br> Hack Squat - 4 séries de 8-10 repetições"
+    },
+    {
+        "id": 48,
+        "grupoMuscular": "pernas",
+        "nivel": "avancado",
+        "objetivo": "hipertrofia",
+        "equipamento": "casa",
+        "descricao": "Pernas: <br> Agachamento com Barra - 5 séries de 5 repetições <br> Prensa 45° - 5 séries de 8-10 repetições <br> Afundos com Barra - 4 séries de 8-10 repetições (cada perna) <br> Stiff com Barra - 4 séries de 8-10 repetições <br> Elevação de Panturrilha em Pé - 4 séries de 12 repetições"
+    },
+    {
+        "id": 49,
+        "grupoMuscular": "pernas",
+        "nivel": "avancado",
+        "objetivo": "hipertrofia",
+        "equipamento": "academia",
+        "descricao": "Pernas: <br> Agachamento Livre - 5 séries de 5 repetições <br> Leg Press 45° - 5 séries de 8-10 repetições <br> Hack Squat - 4 séries de 8-10 repetições <br> Cadeira Extensora - 4 séries de 8-10 repetições <br> Cadeira Flexora - 4 séries de 8-10 repetições"
+    },
+    {
+        "id": 50,
+        "grupoMuscular": "pernas",
+        "nivel": "avancado",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Pernas: <br> Agachamento Frontal - 5 séries de 5 repetições <br> Peso Morto - 5 séries de 5 repetições <br> Agachamento Búlgaro - 4 séries de 6-8 repetições (cada perna) <br> Elevação Terra com Barra - 4 séries de 6-8 repetições <br> Elevação de Panturrilha Sentado - 4 séries de 6-8 repetições"
+    },
+    {
+        "id": 51,
+        "grupoMuscular": "pernas",
+        "nivel": "avancado",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Pernas: <br> Agachamento Olímpico - 5 séries de 5 repetições <br> Levantamento Terra - 5 séries de 5 repetições <br> Agachamento Sumô - 4 séries de 6-8 repetições <br> Flexora deitada - 4 séries de 6-8 repetições <br> Cadeira Adutora - 4 séries de 6-8 repetições"
+    },
+    {
+        "id": 52,
+        "grupoMuscular": "pernas",
+        "nivel": "avancado",
+        "objetivo": "emagrecimento",
+        "equipamento": "casa",
+        "descricao": "Pernas: <br> Agachamento com Salto - 4 séries de 12 repetições <br> Avanço com Salto - 4 séries de 10 repetições (cada perna) <br> Cárdio Hiit - 20 minutos <br> Flexão de Perna em Suspensão - 4 séries de 12 repetições<br> Agachamento Sumô - 4 séries de 6-8 repetições"
+    },
+    {
+        "id": 53,
+        "grupoMuscular": "pernas",
+        "nivel": "avancado",
+        "objetivo": "emagrecimento",
+        "equipamento": "academia",
+        "descricao": "Pernas: <br> Cárdio Intervalado na Esteira - 30 minutos <br> Máquina de Escada - 20 minutos <br> Agachamento com Barra - 3 séries de 12 repetições <br> Cadeira extensora - 4 séries de 6-8 repetições <br> Flexão de Perna em Suspensão - 4 séries de 12 repetições"
+    },
+    {
+        "id": 54,
+        "grupoMuscular": "ombros",
+        "nivel": "iniciante",
+        "objetivo": "hipertrofia",
+        "equipamento": "casa",
+        "descricao": "Ombros: <br> Elevação Frontal com Garrafas de Água - 3 séries de 12 repetições <br> Elevação Lateral com Garrafas de Água - 3 séries de 12 repetições <br> Flexão de Ombros - 3 séries de 10-12 repetições <br> Elevação Frontal Alternada com Garrafas de Água - 3 séries de 12 repetições <br> Elevação Lateral Alternada com Garrafas de Água - 3 séries de 12 repetições"
+    },
+    {
+        "id": 55,
+        "grupoMuscular": "ombros",
+        "nivel": "iniciante",
+        "objetivo": "hipertrofia",
+        "equipamento": "academia",
+        "descricao": "Ombros: <br> Desenvolvimento com Halteres - 3 séries de 10 repetições <br> Elevação Lateral - 3 séries de 10 repetições <br> Elevação Frontal com Barra - 3 séries de 10 repetições <br> Elevação Lateral no Cabo - 3 séries de 10 repetições <br> Encolhimento de Ombros com Halteres - 3 séries de 10 repetições"
+    },
+    {
+        "id": 56,
+        "grupoMuscular": "ombros",
+        "nivel": "iniciante",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Ombros: <br> Flexão de Ombros - 5 séries de 5 repetições <br> Elevação Lateral com Garrafas de Água - 5 séries de 5 repetições <br> Press Push-up - 4 séries de 6-8 repetições <br> Elevação Frontal Alternada com Garrafas de Água - 4 séries de 6-8 repetições <br> Elevação Lateral Alternada com Garrafas de Água - 4 séries de 6-8 repetições"
+    },
+    {
+        "id": 57,
+        "grupoMuscular": "ombros",
+        "nivel": "iniciante",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Ombros: <br> Desenvolvimento com Barra - 5 séries de 5 repetições <br> Elevação Lateral - 5 séries de 5 repetições <br> Press Militar - 4 séries de 6-8 repetições <br> Elevação Lateral no Cabo - 4 séries de 6-8 repetições <br> Remada Alta - 4 séries de 6-8 repetições"
+    },
+    {
+        "id": 58,
+        "grupoMuscular": "ombros",
+        "nivel": "iniciante",
+        "objetivo": "emagrecimento",
+        "equipamento": "casa",
+        "descricao": "Ombros: <br> Flexão de Ombros - 4 séries de 12-15 repetições <br> Elevação Lateral com Garrafas de Água - 4 séries de 12-15 repetições <br> Elevação Frontal Alternada com Garrafas de Água - 3 séries de 12-15 repetições <br> Elevação Lateral Alternada com Garrafas de Água - 3 séries de 12-15 repetições <br> Circuito: 1 minuto de cada exercício, sem descanso entre os exercícios, repetir 3 vezes"
+    },
+    {
+        "id": 59,
+        "grupoMuscular": "ombros",
+        "nivel": "iniciante",
+        "objetivo": "emagrecimento",
+        "equipamento": "academia",
+        "descricao": "Ombros: <br> Desenvolvimento com Halteres - 3 séries de 12-15 repetições <br> Elevação Lateral - 3 séries de 12-15 repetições <br> Elevação Frontal com Barra - 3 séries de 12-15 repetições <br> Elevação Lateral no Cabo - 3 séries de 12-15 repetições <br> Circuito: 1 minuto de cada exercício, sem descanso entre os exercícios, repetir 3 vezes"
+    },
+    {
+        "id": 60,
+        "grupoMuscular": "ombros",
+        "nivel": "intermediario",
+        "objetivo": "hipertrofia",
+        "equipamento": "casa",
+        "descricao": "Ombros: <br> Desenvolvimento com Halteres - 4 séries de 8 repetições <br> Elevação Lateral - 4 séries de 8 repetições <br> Elevação Frontal com Halteres - 4 séries de 8 repetições <br> Elevação Lateral no Cabo - 4 séries de 8 repetições <br> Remada Alta - 4 séries de 8 repetições <br> Encolhimento de Ombros com Halteres - 4 séries de 8 repetições"
+    },
+    {
+        "id": 61,
+        "grupoMuscular": "ombros",
+        "nivel": "intermediario",
+        "objetivo": "hipertrofia",
+        "equipamento": "academia",
+        "descricao": "Ombros: <br> Desenvolvimento com Barra - 4 séries de 8-10 repetições <br> Elevação Lateral - 4 séries de 8-10 repetições <br> Elevação Frontal com Halteres - 4 séries de 8-10 repetições <br> Elevação Lateral no Cabo - 4 séries de 8-10 repetições <br> Remada Alta - 4 séries de 8-10 repetições <br> Encolhimento de Ombros com Barra - 4 séries de 8-10 repetições"
+    },
+    {
+        "id": 62,
+        "grupoMuscular": "ombros",
+        "nivel": "intermediario",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Ombros: <br> Desenvolvimento com Halteres - 5 séries de 5 repetições <br> Elevação Lateral - 5 séries de 5 repetições <br> Press Push-up - 4 séries de 6-8 repetições <br> Elevação Lateral no Cabo - 4 séries de 6-8 repetições <br> Remada Alta - 4 séries de 6-8 repetições"
+    },
+    {
+        "id": 63,
+        "grupoMuscular": "ombros",
+        "nivel": "intermediario",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Ombros: <br> Desenvolvimento com Barra - 5 séries de 5 repetições <br> Elevação Lateral - 5 séries de 5 repetições <br> Press Militar - 4 séries de 6-8 repetições <br> Elevação Lateral no Cabo - 4 séries de 6-8 repetições <br> Remada Alta - 4 séries de 6-8 repetições"
+    },
+    {
+        "id": 64,
+        "grupoMuscular": "ombros",
+        "nivel": "intermediario",
+        "objetivo": "emagrecimento",
+        "equipamento": "casa",
+        "descricao": "Ombros: <br> Flexão de Ombros - 4 séries de 10-12 repetições <br> Elevação Lateral - 4 séries de 10-12 repetições <br> Elevação Frontal - 4 séries de 10-12 repetições <br> Elevação Lateral no Cabo - 4 séries de 10-12 repetições <br> Remada Alta - 4 séries de 10-12 repetições <br> Encolhimento de Ombros - 4 séries de 10-12 repetições"
+    },
+    {
+        "id": 65,
+        "grupoMuscular": "ombros",
+        "nivel": "intermediario",
+        "objetivo": "emagrecimento",
+        "equipamento": "academia",
+        "descricao": "Ombros: <br> Desenvolvimento com Barra - 4 séries de 10-12 repetições <br> Elevação Lateral - 4 séries de 10-12 repetições <br> Elevação Frontal com Halteres - 4 séries de 10-12 repetições <br> Elevação Lateral no Cabo - 4 séries de 10-12 repetições <br> Remada Alta - 4 séries de 10-12 repetições <br> Encolhimento de Ombros com Barra - 4 séries de 10-12 repetições"
+    },
+    {
+        "id": 66,
+        "grupoMuscular": "ombros",
+        "nivel": "avancado",
+        "objetivo": "hipertrofia",
+        "equipamento": "casa",
+        "descricao": "Ombros: <br> Desenvolvimento com Halteres - 5 séries de 6-8 repetições <br> Elevação Lateral - 5 séries de 6-8 repetições <br> Elevação Frontal com Halteres - 5 séries de 6-8 repetições <br> Elevação Lateral no Cabo - 5 séries de 6-8 repetições <br> Remada Alta - 5 séries de 6-8 repetições <br> Encolhimento de Ombros com Halteres - 5 séries de 6-8 repetições"
+    },
+    {
+        "id": 67,
+        "grupoMuscular": "ombros",
+        "nivel": "avancado",
+        "objetivo": "hipertrofia",
+        "equipamento": "academia",
+        "descricao": "Ombros: <br> Desenvolvimento com Barra - 5 séries de 6-8 repetições <br> Elevação Lateral - 5 séries de 6-8 repetições <br> Elevação Frontal com Halteres - 5 séries de 6-8 repetições <br> Elevação Lateral no Cabo - 5 séries de 6-8 repetições <br> Remada Alta - 5 séries de 6-8 repetições <br> Encolhimento de Ombros com Barra - 5 séries de 6-8 repetições"
+    },
+    {
+        "id": 68,
+        "grupoMuscular": "ombros",
+        "nivel": "avancado",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Ombros: <br> Desenvolvimento com Barra - 6 séries de 4-6 repetições <br> Elevação Lateral - 6 séries de 4-6 repetições <br> Press Militar - 5 séries de 5-7 repetições <br> Elevação Lateral no Cabo - 5 séries de 5-7 repetições <br> Remada Alta - 5 séries de 5-7 repetições"
+    },
+    {
+        "id": 69,
+        "grupoMuscular": "ombros",
+        "nivel": "avancado",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Ombros: <br> Desenvolvimento com Halteres - 6 séries de 4-6 repetições <br> Elevação Lateral - 6 séries de 4-6 repetições <br> Press Push-up - 5 séries de 5-7 repetições <br> Elevação Lateral no Cabo - 5 séries de 5-7 repetições <br> Remada Alta - 5 séries de 5-7 repetições"
+    },
+    {
+        "id": 70,
+        "grupoMuscular": "ombros",
+        "nivel": "avancado",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Ombros: <br> Desenvolvimento com Barra - 6 séries de 4-6 repetições <br> Elevação Lateral - 6 séries de 4-6 repetições <br> Press Militar - 5 séries de 5-7 repetições <br> Elevação Lateral no Cabo - 5 séries de 5-7 repetições <br> Remada Alta - 5 séries de 5-7 repetições"
+    },
+    {
+        "id": 71,
+        "grupoMuscular": "ombros",
+        "nivel": "avancado",
+        "objetivo": "emagrecimento",
+        "equipamento": "casa",
+        "descricao": "Ombros: <br> Desenvolvimento com Halteres - 5 séries de 8-10 repetições <br> Elevação Lateral - 5 séries de 8-10 repetições <br> Elevação Frontal com Halteres - 5 séries de 8-10 repetições <br> Elevação Lateral no Cabo - 5 séries de 8-10 repetições <br> Remada Alta - 5 séries de 8-10 repetições <br> Encolhimento de Ombros com Halteres - 5 séries de 8-10 repetições"
+    },
+    {
+        "id": 72,
+        "grupoMuscular": "ombros",
+        "nivel": "avancado",
+        "objetivo": "emagrecimento",
+        "equipamento": "academia",
+        "descricao": "Ombros: <br> Desenvolvimento com Barra - 5 séries de 8-10 repetições <br> Elevação Lateral - 5 séries de 8-10 repetições <br> Elevação Frontal com Halteres - 5 séries de 8-10 repetições <br> Elevação Lateral no Cabo - 5 séries de 8-10 repetições <br> Remada Alta - 5 séries de 8-10 repetições <br> Encolhimento de Ombros com Barra - 5 séries de 8-10 repetições"
+    },
+    {
+        "id": 73,
+        "grupoMuscular": "bracos",
+        "nivel": "iniciante",
+        "objetivo": "hipertrofia",
+        "equipamento": "casa",
+        "descricao": "Bíceps: <br> Rosca Alternada com Halteres - 3 séries de 10-12 repetições <br> Rosca Direta com Barra - 3 séries de 10-12 repetições <br> Tríceps: <br> Flexão de Braço com Pegada Fechada - 3 séries de 10-12 repetições <br> Tríceps Coice com Halter - 3 séries de 10-12 repetições"
+    },
+    {
+        "id": 74,
+        "grupoMuscular": "bracos",
+        "nivel": "iniciante",
+        "objetivo": "hipertrofia",
+        "equipamento": "academia",
+        "descricao": "Bíceps: <br> Rosca Alternada com Halteres - 3 séries de 10-12 repetições <br> Rosca Direta com Barra - 3 séries de 10-12 repetições <br> Tríceps: <br> Pulley Tríceps - 3 séries de 10-12 repetições <br> Tríceps Testa com Barra - 3 séries de 10-12 repetições"
+    },
+    {
+        "id": 75,
+        "grupoMuscular": "bracos",
+        "nivel": "iniciante",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Bíceps: <br> Rosca Direta com Barra - 5 séries de 5 repetições <br> Rosca Martelo com Halteres - 5 séries de 5 repetições <br> Tríceps: <br> Flexão de Braço com Pegada Fechada - 5 séries de 5 repetições <br> Flexão de Braço com Tríceps - 5 séries de 5 repetições"
+    },
+    {
+        "id": 76,
+        "grupoMuscular": "bracos",
+        "nivel": "iniciante",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Bíceps: <br> Rosca Direta com Barra - 5 séries de 5 repetições <br> Rosca Alternada com Halteres - 5 séries de 5 repetições <br> Tríceps: <br> Pulley Tríceps - 5 séries de 5 repetições <br> Tríceps Testa com Barra - 5 séries de 5 repetições"
+    },
+    {
+        "id": 77,
+        "grupoMuscular": "bracos",
+        "nivel": "iniciante",
+        "objetivo": "emagrecimento",
+        "equipamento": "casa",
+        "descricao": "Bíceps: <br> Rosca Alternada com Halteres - 4 séries de 12-15 repetições <br> Rosca Martelo com Halteres - 4 séries de 12-15 repetições <br> Tríceps: <br> Flexão de Braço - 4 séries de 12-15 repetições <br> Tríceps Coice com Halter - 4 séries de 12-15 repetições"
+    },
+    {
+        "id": 78,
+        "grupoMuscular": "bracos",
+        "nivel": "iniciante",
+        "objetivo": "emagrecimento",
+        "equipamento": "academia",
+        "descricao": "Bíceps: <br> Rosca Alternada com Halteres - 4 séries de 12-15 repetições <br> Rosca Direta com Barra - 4 séries de 12-15 repetições <br> Tríceps: <br> Pulley Tríceps - 4 séries de 12-15 repetições <br> Tríceps Testa com Barra - 4 séries de 12-15 repetições"
+    },
+    {
+        "id": 79,
+        "grupoMuscular": "bracos",
+        "nivel": "intermediario",
+        "objetivo": "hipertrofia",
+        "equipamento": "casa",
+        "descricao": "Bíceps: <br> Rosca Concentrada - 4 séries de 8-10 repetições <br> Rosca Inversa - 4 séries de 8-10 repetições <br> Tríceps: <br> Mergulho entre Bancos - 4 séries de 8-10 repetições <br> Tríceps na Corda - 4 séries de 8-10 repetições"
+    },
+    {
+        "id": 80,
+        "grupoMuscular": "bracos",
+        "nivel": "intermediario",
+        "objetivo": "hipertrofia",
+        "equipamento": "academia",
+        "descricao": "Bíceps: <br> Rosca Alternada Scott - 4 séries de 8-10 repetições <br> Rosca Direta com Barra W - 4 séries de 8-10 repetições <br> Tríceps: <br> Tríceps Pulley - 4 séries de 8-10 repetições <br> Tríceps Testa com Halter - 4 séries de 8-10 repetições"
+    },
+    {
+        "id": 81,
+        "grupoMuscular": "bracos",
+        "nivel": "intermediario",
+        "objetivo": "forca",
+        "equipamento": "casa",
+        "descricao": "Bíceps: <br> Rosca Direta com Barra - 5 séries de 5 repetições <br> Rosca Martelo com Halteres - 5 séries de 5 repetições <br> Tríceps: <br> Flexão de Braço com Pegada Fechada - 5 séries de 5 repetições <br> Flexão de Braço com Tríceps - 5 séries de 5 repetições"
+    },
+    {
+        "id": 82,
+        "grupoMuscular": "bracos",
+        "nivel": "intermediario",
+        "objetivo": "forca",
+        "equipamento": "academia",
+        "descricao": "Bíceps: <br> Rosca Direta com Barra - 5 séries de 5 repetições <br> Rosca Alternada com Halteres - 5 séries de 5 repetições <br> Tríceps: <br> Pulley Tríceps - 5 séries de 5 repetições <br> Tríceps Testa com Barra - 5 séries de 5 repetições"
+    },
+    {
+    "id": 83,
+    "grupoMuscular": "bracos",
+    "nivel": "intermediario",
+    "objetivo": "emagrecimento",
+    "equipamento": "casa",
+    "descricao": "Bíceps: <br> Rosca Martelo com Halteres - 4 séries de 12-15 repetições <br> Rosca Inversa - 4 séries de 12-15 repetições <br> Tríceps: <br> Flexão de Braço - 4 séries de 12-15 repetições <br> Tríceps na Corda - 4 séries de 12-15 repetições"
+    },
+    {
+    "id": 83,
+    "grupoMuscular": "bracos",
+    "nivel": "intermediario",
+    "objetivo": "emagrecimento",
+    "equipamento": "academia",
+    "descricao": "Bíceps: <br> Rosca Martelo com Halteres - 4 séries de 12-15 repetições <br> Rosca Direta com Barra W - 4 séries de 12-15 repetições <br> Tríceps: <br> Pulley Tríceps - 4 séries de 12-15 repetições <br> Tríceps Testa com Halter - 4 séries de 12-15 repetições"
+    },
+    {
+    "id": 84,
+    "grupoMuscular": "bracos",
+    "nivel": "avancado",
+    "objetivo": "hipertrofia",
+    "equipamento": "casa",
+    "descricao": "Bíceps: <br> Rosca Scott - 5 séries de 6-8 repetições <br> Rosca Concentrada - 5 séries de 6-8 repetições <br> Tríceps: <br> Tríceps Francês - 5 séries de 6-8 repetições <br> Tríceps Testa com Halteres - 5 séries de 6-8 repetições"
+    },
+    {
+    "id": 85,
+    "grupoMuscular": "bracos",
+    "nivel": "avancado",
+    "objetivo": "hipertrofia",
+    "equipamento": "academia",
+    "descricao": "Bíceps: <br> Rosca Alternada Scott - 5 séries de 6-8 repetições <br> Rosca Direta com Barra W - 5 séries de 6-8 repetições <br> Tríceps: <br> Tríceps Corda - 5 séries de 6-8 repetições <br> Tríceps Testa na Máquina - 5 séries de 6-8 repetições"
+    },
+    {
+    "id": 86,
+    "grupoMuscular": "bracos",
+    "nivel": "avancado",
+    "objetivo": "forca",
+    "equipamento": "casa",
+    "descricao": "Bíceps: <br> Rosca Direta com Barra - 6 séries de 3-5 repetições <br> Rosca Scott - 6 séries de 3-5 repetições <br> Tríceps: <br> Flexão de Braço na Paralela - 6 séries de 3-5 repetições <br> Tríceps Pulley - 6 séries de 3-5 repetições"
+    },
+    {
+    "id": 87,
+    "grupoMuscular": "bracos",
+    "nivel": "avancado",
+    "objetivo": "forca",
+    "equipamento": "academia",
+    "descricao": "Bíceps: <br> Rosca Direta com Barra W - 6 séries de 3-5 repetições <br> Rosca Alternada Scott - 6 séries de 3-5 repetições <br> Tríceps: <br> Tríceps Testa com Barra - 6 séries de 3-5 repetições <br> Tríceps na Máquina - 6 séries de 3-5 repetições"
+    },
+    {
+    "id": 88,
+    "grupoMuscular": "bracos",
+    "nivel": "avancado",
+    "objetivo": "emagrecimento",
+    "equipamento": "casa",
+    "descricao": "Bíceps: <br> Rosca Martelo com Halteres - 5 séries de 10-12 repetições <br> Rosca Concentrada - 5 séries de 10-12 repetições <br> Tríceps: <br> Flexão de Braço - 5 séries de 10-12 repetições <br> Tríceps Corda - 5 séries de 10-12 repetições"
+    },
+    {
+    "id": 89,
+    "grupoMuscular": "bracos",
+    "nivel": "avancado",
+    "objetivo": "emagrecimento",
+    "equipamento": "academia",
+    "descricao": "Bíceps: <br> Rosca Martelo com Halteres - 5 séries de 10-12 repetições <br> Rosca Direta com Barra W - 5 séries de 10-12 repetições <br> Tríceps: <br> Tríceps Testa com Halter - 5 séries de 10-12 repetições <br> Tríceps na Máquina - 5 séries de 10-12 repetições"
+    }
+]

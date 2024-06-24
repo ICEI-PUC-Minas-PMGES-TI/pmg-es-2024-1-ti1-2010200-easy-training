@@ -105,6 +105,26 @@
         transition: background-color 0.3s;
         border-radius: 10px;
       }
+
+      .gerarficha {
+        display: inline-block;
+        padding: 1em 2em;
+        font-size: 1em;
+        background: rgb(0, 102, 255);
+        color: #fff;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s;
+        border-radius: 10px;
+        text-decoration: none; /* Remover sublinhado padrão */
+        text-align: center; /* Centralizar o texto */
+      }
+    
+
+      
+      .custom-button:hover {
+        background-color: #007bff;
+      }
     
       .gerarficha{
         border-radius: 10px;
