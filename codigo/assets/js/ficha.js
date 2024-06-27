@@ -67,3 +67,4 @@ function abrirCronometro() {
 function fecharCronometro() {
     document.getElementById("cronometroPopup").style.display = "none";
 }
+

@@ -48,6 +48,10 @@
                 <i class="fa fa-clock-o"></i> Cronômetro
             </button>
 
+            <button class="btn btn-primary btn-cronometro" class="salvarficha" onclick="salvarFicha()">
+                 Salvar
+            </button>
+
             <button onclick="voltar()" class="btn btn-secondary btn-voltar">
                 <i class="fa fa-arrow-left"></i> Voltar
             </button>
@@ -83,40 +87,46 @@
     
     <script>
         const urlParams = new URLSearchParams(window.location.search);
-        const grupoMuscular = urlParams.get('grupoMuscular');
-        const nivel = urlParams.get('nivel');
-        const objetivo = urlParams.get('objetivo');
-        const equipamento = urlParams.get('equipamento');
+const idtreino = urlParams.get('id');
+const grupoMuscular = urlParams.get('grupoMuscular');
+const nivel = urlParams.get('nivel');
+const objetivo = urlParams.get('objetivo');
+const equipamento = urlParams.get('equipamento');
 
-        fetch('../fichasDeTreino.json')
-            .then(response => response.json())
-            .then(fichasDeTreino => {
-                const resultado = fichasDeTreino.find(ficha =>
-                    ficha.grupoMuscular === grupoMuscular &&
-                    ficha.nivel === nivel &&
-                    ficha.objetivo === objetivo &&
-                    ficha.equipamento === equipamento
-                );
+let resultadoFichaTreino = null;
 
-                const resultadoDiv = document.getElementById('resultado');
-                if (resultado) {
-                    resultadoDiv.innerHTML = `<p>${resultado.descricao}</p>`;
-                } else {
-                    resultadoDiv.innerHTML = '<p>Nenhuma ficha de treino encontrada para os critérios selecionados.</p>';
-                }
-            })
-            .catch(error => console.error('Erro ao carregar as fichas de treino:', error));
+fetch('../fichasDeTreino.json')
+    .then(response => response.json())
+    .then(fichasDeTreino => {
+        resultadoFichaTreino = fichasDeTreino.find(ficha => 
+            ficha.grupoMuscular === grupoMuscular &&
+            ficha.nivel === nivel &&
+            ficha.objetivo === objetivo &&
+            ficha.equipamento === equipamento
+        );
 
-        function voltar() {
-            window.history.back();
+        const resultadoDiv = document.getElementById('resultado');
+        if (resultadoFichaTreino) {
+            resultadoDiv.innerHTML = `<p>${resultadoFichaTreino.descricao}</p>`;
+        } else {
+            resultadoDiv.innerHTML = '<p>Nenhuma ficha de treino encontrada para os critérios selecionados.</p>';
         }
+    })
+    .catch(error => console.error('Erro ao carregar as fichas de treino:', error));
+
+
+
+function voltar() {
+    window.history.back();
+}
+
     </script>
 
     <!-- Rodapé -->
-    <footer>
-        <div class="footer">
-            <p class=" footer custom-gradient mt-5 py-4 text-center ">© Easy Training - 2024</p>
-        </div>
+   <footer>
+      <div class="footer">
+      <p class=" footer custom-gradient mt-5 py-4 text-center ">© Easy Training - 2024</p>
+      </div>
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"

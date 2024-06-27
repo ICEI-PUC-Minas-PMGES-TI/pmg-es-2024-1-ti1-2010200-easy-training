@@ -298,3 +298,38 @@ button#btn_editar {
   justify-content: center;
   justify-content: center;
 }
+
+.perfil {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr)); 
+  gap: 10px;
+  padding: 10px;
+}
+
+.mostrarFichas{
+  margin: 2rem auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  margin-top: 56px;
+  height: 30.2rem; 
+  overflow-y: auto;
+}
+
+.minhasFichas{
+  display: flex;
+  justify-content: center;
+  justify-content: center;
+  margin-bottom: 18px;
+}
+
+.nenhumaFicha{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  font-weight: bold;
+}

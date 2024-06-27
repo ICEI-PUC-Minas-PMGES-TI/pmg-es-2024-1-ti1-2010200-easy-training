@@ -203,6 +203,7 @@
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
+    margin: 10px;
 }
 
 h1 {
@@ -243,7 +244,6 @@ button:hover {
 }
   
 footer {
-  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -252,12 +252,14 @@ footer {
 }
   
 .footer {
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  margin: 0; 
-  padding: 0;
-}
+  
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin: 0; 
+    padding: 0;
+  }
+
 
 .card {
   background-color: white;
@@ -290,7 +292,6 @@ footer {
   width: 100%;
   height: 100%;
   overflow: auto;
-  background-color: rgb(0,0,0);
   background-color: rgba(0,0,0,0.4);
 }
 
@@ -300,6 +301,7 @@ footer {
   padding: 20px;
   border: 1px solid #888;
   width: 80%;
+  max-width: 500px;
 }
 
 .close {
@@ -318,11 +320,14 @@ footer {
 
 /* Estilos para o cronômetro */
 #stopwatch {
+  display: flex;
   flex-direction: column;
+  align-items: center;
   background-color: #262626;
   padding: 2rem;
   border-radius: 8px;
-  width: 315px;
+  width: 100%;
+  max-width: 315px;
   margin: 5rem auto;
 }
 
@@ -345,6 +350,7 @@ footer {
 #actions {
   display: flex;
   gap: 0.7rem;
+  width: 100%;
 }
 
 #actions button {
@@ -382,6 +388,59 @@ footer {
 
 /* Estilização da barra de rolagem */
 #marks-list::-webkit-scrollbar {
+  width: 12px; /* largura da barra de rolagem */
+}
+
+#marks-list::-webkit-scrollbar-track {
+  background: #f1f1f1; /* cor de fundo da barra de rolagem */
+  border-radius: 5px;
+}
+
+#marks-list::-webkit-scrollbar-thumb {
+  background: #888; /* cor da alça da barra de rolagem */
+  border-radius: 6px; /* borda arredondada da alça */
+}
+
+#marks-list::-webkit-scrollbar-thumb:hover {
+  background: #555; /* cor da alça da barra de rolagem ao passar o mouse */
+}
+
+/* Media Queries para responsividade */
+@media (max-width: 768px) {
+  #stopwatch {
+    padding: 1.5rem;
+    margin: 2rem auto;
+  }
+
+  #timer {
+    height: 200px;
+    width: 200px;
+    font-size: 24px;
+    padding: 3rem;
+  }
+}
+
+@media (max-width: 480px) {
+  #stopwatch {
+    padding: 1rem;
+    margin: 1rem auto;
+  }
+
+  #timer {
+    height: 150px;
+    width: 150px;
+    font-size: 18px;
+    padding: 2rem;
+  }
+
+  #actions button {
+    height: 35px;
+    font-size: 0.875rem;
+  }
+}
+
+/* Estilização da barra de rolagem */
+#marks-list::-webkit-scrollbar {
 width: 12px; /* largura da barra de rolagem */
 }
 
@@ -397,4 +456,15 @@ border-radius: 6px; /* borda arredondada da alça */
 
 #marks-list::-webkit-scrollbar-thumb:hover {
 background: #555; /* cor da alça da barra de rolagem ao passar o mouse */
+}
+
+.aparecerFicha{
+  justify-content: center;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding:10px;
+}
+
+.aparecerFicha p{
+  max-width: 500px;
 }
