@@ -721,5 +721,13 @@
     "objetivo": "emagrecimento",
     "equipamento": "academia",
     "descricao": "Bíceps: <br> Rosca Martelo com Halteres - 5 séries de 10-12 repetições <br> Rosca Direta com Barra W - 5 séries de 10-12 repetições <br> Tríceps: <br> Tríceps Testa com Halter - 5 séries de 10-12 repetições <br> Tríceps na Máquina - 5 séries de 10-12 repetições"
-    }
+    },
+    {
+        "id": 90,
+        "grupoMuscular": "costas",
+        "nivel": "iniciante",
+        "objetivo": "emagrecimento",
+        "equipamento": "academia",
+        "descricao": "Costas: <br> Remada com Halteres - 3 séries de 10 repetições <br> Pull-up - 3 séries de 8 repetições <br> Puxada neutra com barra W - 3 séries de 12 repetições <br> Prancha - 3 séries de 30 segundos"
+   }
 ]

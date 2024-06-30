@@ -5,7 +5,6 @@ Easy Training é um Software inovador que promete transformar a experiência dos
 ## Alunos integrantes da equipe
 
 * João Marcelo carvalho pereira araujo
-* Rogerio Eduardo Oliveira
 * Gabriel Oliveira Amorim
 * Diogo Caribe Brunoro
 * Bruno Kenji Fantucci Sato

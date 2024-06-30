@@ -1,65 +1,33 @@
-<<<<<<< HEAD
-cff-version: 1.0.1
-message: Please cite this software using these metadata.
-title: Easy-Training 
-authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
-keywords:
-  - 
-  - 
-repository-code: 
-license: CC-BY-4.0
-version: 1.0.0
-date-released: 2022-07-14
-=======
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title: 
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
+  - family-names: Carvalho pereira araujo 
+    given-names: João Marcelo
+  - family-names: Oliveira Amorim
+    given-names: Gabriel
+  - family-names: Caribe Brunoro
+    given-names: Diogo
+  - family-names: Kenji Fantucci Sato
+    given-names: Bruno
+  - family-names: de Resende Marcelino
+    given-names: Bernardo
   - family-names: 
     given-names:
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Soares de Andrade
+    given-names: Michelle Hanne
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Carneiro Aramuni
+    given-names: João Paulo
 keywords:
-  - 
-  - 
-repository-code: 
+  - Academia 
+  - Treino
+  - Saúde
+  - Fichas de treino
+repository-code: https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2022-07-14
->>>>>>> 576e4073eb686b7caee5801aac8f95491eb4d605
