@@ -17,6 +17,6 @@ Easy Training é um Software inovador que promete transformar a experiência dos
 
 ## Instruções de utilização
 
-Não é necessário instalar nenhuma dependência para executar a aplicação apenas acessar o link do site https://easy-training-lk3rwzuye-diogobrunoros-projects.vercel.app
+Não é necessário instalar nenhuma dependência para executar a aplicação apenas acessar o link do site https://easy-training-diogobrunoros-projects.vercel.app/
 
 
