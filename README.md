@@ -17,4 +17,6 @@ Easy Training é um Software inovador que promete transformar a experiência dos
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Não é necessário instalar nenhuma dependência para executar a aplicação apenas acessar o link do site https://easy-training-lk3rwzuye-diogobrunoros-projects.vercel.app
+
+
