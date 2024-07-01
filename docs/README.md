@@ -150,9 +150,9 @@ Como alguém que pretende iniciar na academia, eu quero fichas específicos que 
 
 -Fichas personalizadas de acordo com a necessidades e limitações dos usuários.
 
--Chat para contato dos alunos com os profissionais.
+-Cronômetro e marcador de tempo para a realização dos exercícios
 
--Avaliação das fichas publicadas pelos profissionais pelos usuários.
+-Salvar fichas escolhidas no perfil do usuário
 
 
 ## Requisitos não funcionais:
@@ -206,12 +206,34 @@ PROTÓTIPO TELA DE LOGIN
 PROTÓTIPO TELA DE CONTATOS
 
 
+# Telas da aplicação
+
+TELA INICIAL 
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/162399153/fb173526-0cef-4944-9de2-c7ea96ca3fd6)
+
+TELA DE CADASTRO 
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/162399153/7b64d4e5-9916-43cc-8d6f-36af84e19ef4)
+
+TELA DE LOGIN
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/162399153/33522d93-46ae-4b82-ae43-ef789145b122)
+
+TELA DE PERFIL
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/162399153/f7027eca-1116-474c-81d0-7cd2973f9639)
+
+TELA DA GERAÇÃO DAS FICHAS
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/162399153/58593f2d-40fc-4ca4-b6a4-099381acc577)
+
+TELA DA FICHA GERADA
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/162399153/7a13feac-8fc5-4529-81d3-2b14234a56e7)
+
+TELA DE CONTATOS
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/162399153/0f29d196-5532-4878-8bf6-0ba505fb85e3)
 
 ## Gestão de Projetos
 
  Nesta parte do documento, você deve apresentar  o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a gestão de configuração do projeto via GitHub.
 
-Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training/assets/162399153/1e2ecfc0-9ceb-4c0f-a5c0-c1400672d003)
 
 **Links Úteis**:
 
